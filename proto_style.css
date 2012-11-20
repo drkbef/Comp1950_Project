@@ -19,7 +19,7 @@ font-weight:bold;
 	 
 	 align:center;
 	 font-family:"Times New Roman";
-     box-shadow:10px 10px 10px 10px #343131;
+     box-shadow:10px 10px 10px 10px #A97D5D;
 }
 	
 
@@ -73,11 +73,11 @@ ul{
 #leftcolumn { float:left;
 	       width:220px;
 		   font-size:large;
-		   height:780px;
+		   height:813px;
 		   background-color:#f2f2eb;
 		   
-           box-shadow:10px 0px 10px 5px #392303;
-           margin-top:35px;
+           box-shadow:10px 0px 10px 5px #A97D5D;
+           margin-top:18px;
 		  } 
 
 
