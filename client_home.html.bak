@@ -77,6 +77,12 @@
 				<li>
 			  </article>
 	      
+	  <article>
+           <h4>Let's get started!</h4>
+              Let's go onto
+             <a href="#week1/">week one</a>
+      </article>
+	  
 	  <div id="footer">
          <a href="#top">Top of Page</a>
           |
