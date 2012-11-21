@@ -76,7 +76,7 @@ border:1px solid black;
 		   height:820px;
 		   background-color:#f2f2eb;
 		   box-shadow:0px 0px 5px  #A97D5D;
-           margin-top:36px;
+           margin-top:22px;
 		  } 
 
 
@@ -142,7 +142,46 @@ padding-bottom:5px;}
         border:1px solid black;
 }	
 
+/*  JK   */
 
+menu ul {
+list-style-type: none;
+ margin: 15px 0;
+ border: 0;}
+
+ 
+menu li {
+	float:left;
+	text-align: center;
+	margin-left:15px;
+	width:150px;
+	margin: 0;
+	padding: 0;
+	font-size: 90%;
+	font-weight: bold;
+	font-family: Georgia, Times, Serif;
+	color: black;
+	}
+
+menu li a {
+	
+	display: block;
+	padding: 0;
+	text-decoration: none;
+	width:150px;
+	color:#2f2b2b;
+	
+}
+	
+
+
+menu li a:hover {
+	font-weight: bold;
+	background: #343131;
+	color:white;
+	text-decoration: none;
+	}
+	
 
 
 
