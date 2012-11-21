@@ -5,16 +5,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="client.css">	
 	</head>
-
-
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>project</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="proto_style.css">
-   </head>
 <body>
       <div id="wrapper">
 	  <header>
@@ -62,26 +52,13 @@
 		    
 	          
 			  <article>
-			  <h1>Project Goals</h1>
+			  <h1>Artifacts</h1>
 
-              <p>
-			  The goal of this project is to remap the current existing COMP 1950 course website into a more user-friendly interface design. In focus on the user experience and interaction where lecture notes, examples and other information are easily accessed.
-			  </p>			  
-			  <p>
-              <a href="http://thenet.ca/1950/project/">http://thenet.ca/1950/project/</a>
-              </p>
-			   </article>
+              <p>need to do something like this:</p>
+				<ul>
+					<li> <a href="http://www.thenet.ca/1950/week9/files.shtml">www.thenet.ca - 1950 - week9</a></li>
+	            </ul>
 
-			  <article>
-			  <h1>The Team</h1>
-
-              <p>
-			  <ul>
-				<li>Colin
-				<li>Prasanna
-				<li>Jose
-				<li>Hawoon 
-				<li>Simon
 			  </article>
 	  <div id="footer">
      	<ul>
@@ -101,3 +78,13 @@
 
 
 </html>
+
+
+
+
+<!--  
+will be useing shtml to finalize:
+	- navagation
+	- header
+	- footer
+----- not doing it now due to visual issues on EditorPlus and others ---->

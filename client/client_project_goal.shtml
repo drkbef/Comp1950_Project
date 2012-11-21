@@ -6,15 +6,6 @@
 		<link rel="stylesheet" href="client.css">	
 	</head>
 
-
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>project</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="proto_style.css">
-   </head>
 <body>
       <div id="wrapper">
 	  <header>
@@ -83,7 +74,6 @@
 				<li>Hawoon 
 				<li>Simon
 			  </article>
-			  <!--  could possibly use meda "back to the top" to the side of the page and delete this footer-->
 	  <div id="footer">
      	<ul>
 			<li><a href="#top">Top of Page</a></li>
@@ -102,3 +92,16 @@
 
 
 </html>
+
+
+
+
+
+
+
+<!--  
+will be useing shtml to finalize:
+	- navagation
+	- header
+	- footer
+----- not doing it now due to visual issues on EditorPlus and others ---->

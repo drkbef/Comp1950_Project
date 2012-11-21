@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+	<head>
+		<meta charset="UTF-8">
+		<title>project</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="client.css">	
+	</head>
+<body>
+      <div id="wrapper">
+	  <header>
+	  <h1>Client Site</h1>
+		<h2>rough test client site</h2>
+	 
+	 </header>	
+    <nav>
+     <article>	
+	   <div id="menu">
+		  <menu>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Client Site</a> </li>
+			<li><a href="#">Protosite</a> </li>
+			<li><a href="#">!</a></li>
+			<li><a href="#">!</a></li> <!--  issues when deleting this -->
+		</ul>
+	 </menu>
+	  </div>
+
+	 <article>
+	
+        <div id="leftcolumn">
+         <h3>Project Overview</h3>
+         <ul>															
+            <li> <a href="#">Project Goal</a></li>
+			<li> <a href="#">Wireframe</a></li>
+            <li> <a href="#">Sitemap</a></li>
+            <li> <a href="#">Rationale</a></li>
+			<li> <a href="#">Artifacts</a></li>
+			
+			
+	     </ul>
+          <h3>Contact</h3>
+		 </div>
+
+		 
+     </nav>	
+
+    <div id="rightcolumn">
+    
+	    <section> 
+		    
+	          
+			  <article>
+			  <h1>Wireframe:</h1>
+
+              <p>For Client Project Site</p>
+				<ul>
+					<li> <a href="http://teams.thenet.ca/lament/ClientProjectSite/documents/cwireframe.html">Wireframe</a></li>
+				</ul>
+
+
+
+			  </article>
+	  <div id="footer">
+     	<ul>
+			<li><a href="#top">Top of Page</a></li>
+			<li><a href="#">Home</a></li>
+		</ul>
+	</div>
+</div>  
+	 <div id="footer">
+			<p> ~thank you for learning~ 2012</p>
+     </div>
+	 </section>
+</div>
+
+</body>
+</html>
+
+
+</html>
+
+
+
+
+<!--  
+
+will be useing shtml to finalize:
+	- navagation
+	- header
+	- footer
+
+----- not doing it now due to visual issues on EditorPlus and others ---->
