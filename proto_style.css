@@ -4,12 +4,14 @@ margin:0 auto;
 width:1040px;
 margin-top:10px;
 height:auto;
+
 }
 
 header{height:120px;
 border:1px solid black;
 text-align:center;
 font-weight:bold;
+
 }
 
 #wrapper { 
@@ -22,12 +24,13 @@ font-weight:bold;
      box-shadow:0px 10px 25px #A97D5D;
 
 }
-	
 
+ 
+ 
 nav>article{height:35px;
 background-color:#A97D5D;
 border:1px solid black;
-
+padding-bottom:5px;
 }
 
 
@@ -76,13 +79,13 @@ border:1px solid black;
 		   height:820px;
 		   background-color:#f2f2eb;
 		   box-shadow:0px 0px 5px  #A97D5D;
-           margin-top:36px;
+           margin-top:20px;
 		  } 
 
 
 #leftcolumn h3{text-align:left;
 background-color:#A97D5D;
-
+border-radius: 15px;
 border:1px solid black;
 padding-left:5px;
 }	 
@@ -138,7 +141,7 @@ padding-bottom:5px;}
         text-align:center;		
         font-size:small; 
 		background-color:#f2f2eb;
-		color:white;
+		color:black;
         border:1px solid black;
 }	
 
