@@ -9,6 +9,10 @@ For Comp1950 Web Site
             - http://teams.thenet.ca/lament/Comp1950Website/documents/wireframe.html
             - http://teams.thenet.ca/lament/Comp1950Website/documents/sitemap.html
 
-  For Client Project Site    
+For Client Project Site    
             - http://teams.thenet.ca/lament/ClientProjectSite/documents/cwireframe.html
             - http://teams.thenet.ca/lament/ClientProjectSite/documents/csitemap.html
+			
+Tumblr Blog:
+
+http://lamentfor.tumblr.com/
