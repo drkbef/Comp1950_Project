@@ -50,16 +50,7 @@
     
 	    <section> 
 		    
-	          
-			  <article>
-			  <h1>Artifacts</h1>
-
-              </li>
-	            </ul>
-
-			  </article>
-
-
+	
  <article>
 			  <h3>Client Questionnaire</h3>
 			  <p>Discovering what our clients really want is one of the most fundamental steps in creating a good working relationship. To avoid delivering something that does not fit the direction in which our client want to take their website. Client questionnaire will save both time and frustration in the near future.
@@ -67,7 +58,8 @@
 			  <p>We thank you for your co-operation.</p>
 <!--will need download and re-link the responce to our out surver-->
               <ul>
-                <li> <a href="http://thenet.ca/1950/project/answers.html">Client's Responce to questionnaire</a></li>
+                <li> 
+				<a href="questionnaire_answers.pdf">Client's Responce to questionnaire</a></li>
               </ul>
 
 			   </article>
