@@ -53,7 +53,7 @@
 		    
 	          
 			  <article>
-			  <h1>Project Goals</h1>
+			  <h3>Project Goals</h3>
 
               <p>
 			  The goal of this project is to remap the current existing COMP 1950 course website into a more user-friendly interface design. In focus on the user experience and interaction where lecture notes, examples and other information are easily accessed.
@@ -64,9 +64,9 @@
 			   </article>
 
 			  <article>
-			  <h1>The Team</h1>
+			  <h3>The Team</h3>
 
-              <p>
+              <p>Lament Web Team</p>
 			  <ul>
 				<li>Colin
 				<li>Prasanna

@@ -5,6 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="client.css">	
 	</head>
+
 <body>
       <div id="wrapper">
 	  <header>
@@ -50,21 +51,29 @@
     
 	    <section> 
 		    
-	
- <article>
-			  <h3>Client Questionnaire</h3>
-			  <p>Discovering what our clients really want is one of the most fundamental steps in creating a good working relationship. To avoid delivering something that does not fit the direction in which our client want to take their website. Client questionnaire will save both time and frustration in the near future.
-			  </p>
-			  <p>We thank you for your co-operation.</p>
-<!--will need download and re-link the responce to our out surver-->
-              <ul>
-                <li> <a href="http://thenet.ca/1950/project/answers.html">Client's Responce to questionnaire</a></li>
-              </ul>
+	          
+			  <article>
+			  <h3>Project Goals</h3>
 
+              <p>
+			  The goal of this project is to remap the current existing COMP 1950 course website into a more user-friendly interface design. In focus on the user experience and interaction where lecture notes, examples and other information are easily accessed.
+			  </p>			  
+			  <p>
+              <a href="http://thenet.ca/1950/project/">http://thenet.ca/1950/project/</a>
+              </p>
 			   </article>
 
+			  <article>
+			  <h1>The Team</h1>
 
-
+              <p>Lament Web Team</p>
+			  <ul>
+				<li>Colin
+				<li>Prasanna
+				<li>Jose
+				<li>Hawoon 
+				<li>Simon
+			  </article>
 	  <div id="footer">
      	<ul>
 			<li><a href="#top">Top of Page</a></li>
@@ -73,7 +82,7 @@
 	</div>
 </div>  
 	 <div id="footer">
-			<p> reference: need to do something like this: <a href="http://www.thenet.ca/1950/week9/files.shtml">www.thenet.ca - 1950 - week9</a></p>
+			<p> ~thank you for learning~ 2012</p>
      </div>
 	 </section>
 </div>
@@ -83,6 +92,9 @@
 
 
 </html>
+
+
+
 
 
 
