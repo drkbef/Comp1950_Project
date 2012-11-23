@@ -16,3 +16,32 @@ For Client Project Site
 Tumblr Blog:
 
 http://lamentfor.tumblr.com/
+
+*********************** TASK LIST  *************************
+
+
+*** IMPORTANT NOTE ***AFTER READING THE INSTRUCTIONS - The site map is actually for the PROTO site, not the client.  It is Item #7 on the deliverables.  I think Jose has already done this up in the graphic
+
+ASSIGNED TASKS:
+
+Prasanna:  Design primary(D), Proto Home(D), Fake search function(D), Proto Lecture, vertical menus
+
+Simon:  Client Hompage,  Client Rationale
+
+Hawoon:  Client Hompage, Client Rationale, Content for pages - Client Home (Introduction to project), Client Rationale (Our reasons for doing what we did), Team Descriptions (Who we are)
+
+Jose:  Wireframes (D), Proto Home,  Horizontal Menus, Sitemap
+
+Colin:  Design secondary(D), Tumblr, Editing written Content for pages
+
+
+UNASSIGNED TASKS:
+
+- Code Example page prototype
+- Implement a content management system (CMS) for easy updates (listed in the client FAQ, search for CMS) 		
+		->  Does anyone understand what he means by implementing a CMS?
+- Handheld version - Media Query
+- Visual Cleanup
+
+
+Please let me know if any tasks are missing!!
