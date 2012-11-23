@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!--#include file="includes/head.inc"-->
+
+<body>
+<div id="wrapper">
+	<header>
+	<h1>Client Site</h1>
+	<h2>rough test client site</h2>
+	</header>
+
+	<!--#include file="includes/navs.inc"-->
+
+	<div id="rightcolumn">
+    <section>
+    	<article>
+			<h1>Site Map</h1>
+			<p>For Client Project Site</p>
+			<ul>
+				<li><a href="http://teams.thenet.ca/lament/ClientProjectSite/documents/csitemap.html">Site Map</a></li>
+			</ul>
+		</article>
+	</section>
+	</div>
+
+<!--#include file="includes/footer.inc"-->
+
+</div>  
+
+</body>
+</html>

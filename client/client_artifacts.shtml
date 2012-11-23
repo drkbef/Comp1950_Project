@@ -10,23 +10,23 @@
 
 	<!--#include file="includes/navs.inc"-->
 
-    <div id="rightcolumn">
+	<div id="rightcolumn">
 	<section> 
 		<article>
 			<h3>Client Questionnaire</h3>
 			<p>Discovering what our clients really want is one of the most fundamental steps in creating a good working relationship. To avoid delivering something that does not fit the direction in which our client want to take their website. Client questionnaire will save both time and frustration in the near future.</p>
 			<p>We thank you for your co-operation.</p>
-            <ul>
-                <li> 
-				<a href="questionnaire_answers.pdf">Client's Responce to questionnaire</a></li>
-            </ul>
+           		<ul>
+                		<li><a href="questionnaire_answers.pdf">Client's Responce to questionnaire</a></li>
+            		</ul>
 
 		</article>
 	</section>
 	</div>
-</div>
 
 <!--#include file="includes/footer.inc"-->
+
+</div>
 
 </body>
 </html>

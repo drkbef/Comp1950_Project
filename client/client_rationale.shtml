@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<!--#include file="includes/head.inc"-->
+
+<body>
+<div id="wrapper">
+	<header>
+	<h1>Client Site</h1>
+	<h2>rough test client site</h2>
+	</header>
+
+	<!--#include file="includes/navs.inc"-->
+
+    <div id="rightcolumn">
+	<section> 
+		<article>
+			<h3># 8 | Rationale Page</h3>
+			<p>This is the most important page in your site. This is where you describe why you chose to build the site in the way you have proposed. Make sure you agreee on this in your group!</p>
+		</article>
+
+		<article>
+			<h3>Rationale</h3>
+			<p>
+			The previous existing COMP 1950 website was brief, but to the point and gets the job done providing BCIT students with weekly lecture notes, example, and assignments. Considering creating a more user-friendly interface design in focus on the user experience and interaction where lecture notes, examples and other information are easily accessed. We have established new grounds on the redesign of the COMP1950 web site.</p>
+		</article>
+
+		<article>
+			<h3>Site Layout</h3>
+			<ul>
+				<li>Keeping the web site stylish with innovative and inspiring idea without the use of lengthily flash intro.</li>
+				<li>The site uphold that of which is taught though out the in the course.</li>
+			</ul>
+		</article>
+
+		<article>
+			<h3>The Audience</h3>
+			<p>Targeted audiences are all BCIT students. For students who are currently enrolled in BCIT COMP 1950- Intermediate Web Development and Design. This web site will provide an easy access to lecture notes, assignments, and exercises in stride towards their career and academic future. Alumni students may gain access to review previous material while prospective students could have an overview or syllabus of the course potentials.</p>
+		</article>
+
+		<article>
+			<h3>Blog</h3>
+			<p>Provided a blog to keep users up-to-date on late-breaking news, share interesting articles and post other notices.</p>
+		</article>
+
+		<article>
+			<h3>Color - Scheme</h3>
+			<p>Keeping the site stylish by adding a complementary color – scheme.</p>
+		</article>
+	</section>
+	</div>
+
+<!--#include file="includes/footer.inc"-->
+
+</div>  
+
+</body>
+</html>

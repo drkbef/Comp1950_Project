@@ -11,11 +11,11 @@
 		<section>
 			<h3>Project Overview</h3>
 	        <ul>															
-	            <li> <a href="#">Project Goals</a></li>
-				<li> <a href="#">Wireframe</a></li>
-	            <li> <a href="#">Sitemap</a></li>
-	            <li> <a href="#">Rationale</a></li>
-				<li> <a href="#">Artifacts</a></li>
+	            <li> <a href="client_project_goal.shtml">Project Goals</a></li>
+				<li> <a href="client_wireframe.shtml">Wireframe</a></li>
+	            <li> <a href="client_sitemap.shtml">Sitemap</a></li>
+	            <li> <a href="client_rationale.shtml">Rationale</a></li>
+				<li> <a href="client_artifacts.shtml">Artifacts</a></li>
 		    </ul>
 	 	</section>
 

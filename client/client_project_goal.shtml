@@ -10,9 +10,8 @@
 
 	<!--#include file="includes/navs.inc"-->
 
-    <div id="rightcolumn">
+	<div id="rightcolumn">
 	<section> 
-
 		<article>
 			<h3>Project Goals</h3>
 			<p>The goal of this project is to remap the current existing COMP 1950 course website into a more user-friendly interface design. In focus on the user experience and interaction where lecture notes, examples and other information are easily accessed.</p>			  
@@ -20,14 +19,12 @@
 		</article>
 
 		<article>
-			<h3>The Team</h3>
-            <p>Lament Web Team Members</p>
-            <img class="profile" src="images/profile.png" alt="img1" />
-            <img class="profile" src="images/profile.png" alt="img2" />
-            <img class="profile" src="images/profile.png" alt="img3" />
-            <img class="profile" src="images/profile.png" alt="img4" />
-            <img class="profile" src="images/profile.png" alt="img5" />
-
+			<h3>The Team Members</h3>
+            		<img class="profile" src="images/profile.png" alt="img1" />
+           			<img class="profile" src="images/profile.png" alt="img2" />
+            		<img class="profile" src="images/profile.png" alt="img3" />
+            		<img class="profile" src="images/profile.png" alt="img4" />
+            		<img class="profile" src="images/profile.png" alt="img5" />
 			<ul>
 				<li>Colin</li>
 				<li>Prasanna</li>
@@ -38,9 +35,10 @@
 		</article>
 	</section>
 	</div>
-</div>  
 
 <!--#include file="includes/footer.inc"-->
+
+</div>  
 
 </body>
 </html>
