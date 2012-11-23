@@ -13,6 +13,11 @@ header	{
 	font-weight:bold;
 }
 
+img.profile {
+	width: 100px;
+	border: 1px solid black;
+}
+
 #wrapper { 
      width:1040px;
      min-width:1040px;
@@ -22,11 +27,7 @@ header	{
 	 font-family:"Times New Roman";
      box-shadow:0px 10px 25px #A97D5D;
 }
-nav>article	{
-	height:35px;
-	background-color:#A97D5D;
-	border:1px solid black;
-}
+
 #leftcolumn ul	{
 	list-style-type: none;
 	margin: 15px 0;
@@ -167,14 +168,23 @@ nav>article	{
 
 
 
-/*  JK   */
 
-menu ul {
+
+
+
+
+nav#main {
+	height:35px;
+	background-color:#A97D5D;
+	border:1px solid black;
+}
+
+nav#main ul {
 	list-style-type: none;
 	margin: 15px 0;
 	border: 0;
 }
-menu li	{
+nav#main li	{
 	float:left;
 	text-align: center;
 	margin-left:15px;
@@ -186,14 +196,14 @@ menu li	{
 	font-family: Georgia, Times, Serif;
 	color: black;
 }
-menu li a	{
+nav#main li a {
 	display: block;
 	padding: 0;
 	text-decoration: none;
 	width:150px;
 	color:#2f2b2b;
 }
-menu li a:hover	{
+nav#main li a:hover	{
 	font-weight: bold;
 	background: #343131;
 	color:white;
