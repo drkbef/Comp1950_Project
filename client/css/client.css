@@ -8,7 +8,7 @@ body {
 
 header {
 	height:120px;
-	border:1px solid black;
+	/*border:1px solid black;*/
 	text-align:center;
 	font-weight:bold;
 }
@@ -25,6 +25,7 @@ img.profile {
 	 background-color:#f2f2eb;
 	 font-family:"Times New Roman";
      box-shadow:0px 10px 25px #A97D5D;
+     border:1px solid black;
 }
 
 #leftcolumn	{ 
@@ -75,7 +76,9 @@ img.profile {
 #leftcolumn h3	{
 	text-align:left;
 	background-color:#A97D5D;
-	border:1px solid black;
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+	border-right:1px solid black;
 	padding-left:5px;
 }
 
@@ -126,7 +129,8 @@ img.profile {
 nav#main {
 	height:35px;
 	background-color:#A97D5D;
-	border:1px solid black;
+	border-top:1px solid black;
+	border-bottom:1px solid black;
 }
 
 nav#main ul {
@@ -168,7 +172,7 @@ nav#main li a:hover	{
 	height:60px;
 	text-align:center;		
 	background-color:#f2f2eb;
-	border:1px solid black;
+	border-top:1px solid black;*/
 }   
 #footer ul {
 	list-style-type: none;
