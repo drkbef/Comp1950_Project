@@ -14,18 +14,15 @@
 	<section>
     		<article>
 			<h3>Site Map</h3>
-			
 			<p>Client Project Sitemap</p>
 			<ul>
 				<li><a href="http://teams.thenet.ca/lament/ClientProjectSite/documents/csitemap.html">Site Map - Client</a></li>
 			</ul>
-			
-			<p>Proposed Sitemap for COMP1950 Web Site</p>
-			<ul>
-				<li><a href="http://teams.thenet.ca/lament/Comp1950Website/documents/sitemap.html">Site Map - COMP 1950</a></li>
+          <p>Proposed Sitemap for COMP1950 Web Site</p>
+				<ul>
+          <li><a href="http://teams.thenet.ca/lament/Comp1950Website/documents/sitemap.html">Site Map - COMP 1950</a></li>
 			</ul>
-			
-			</article>
+</article>
 	</section>
 	</div>
 
