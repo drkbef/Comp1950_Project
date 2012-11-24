@@ -1,0 +1,587 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" >
+
+    
+    <title>{Title}</title>
+
+    <style type="text/css">
+    
+
+<!--NORMALIZE  -->    
+ 
+/*! normalize.css v2.0.1 | MIT License | git.io/normalize *//*==========================================================================HTML5 display definitions==========================================================================*//* * Corrects `block` display not defined in IE 8/9. */article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display: block;}/* * Corrects `inline-block` display not defined in IE 8/9. */audio,canvas,video{display: inline-block;}/* * Prevents modern browsers from displaying `audio` without controls. * Remove excess height in iOS 5 devices. */audio:not([controls]){display: none;height: 0;}/* * Addresses styling for `hidden` attribute not present in IE 8/9. */[hidden]{display: none;}/*==========================================================================Base==========================================================================*//* * 1. Sets default font family to sans-serif. * 2. Prevents iOS text size adjust after orientation change, without disabling * user zoom. */html{font-family: sans-serif;/* 1 */background: #777; -webkit-text-size-adjust: 100%;/* 2 */ -ms-text-size-adjust: 100%;/* 2 */}/* * Removes default margin. */body{margin: 0;}/*==========================================================================Links==========================================================================*//* * Addresses `outline` inconsistency between Chrome and other browsers. */a:focus{outline: thin dotted;}/* * Improves readability when focused and also mouse hovered in all browsers. */a:active,a:hover{outline: 0;}/*==========================================================================Typography==========================================================================*//* * Addresses `h1` font sizes within `section` and `article` in Firefox 4+, * Safari 5, and Chrome. */h1{font-size: 2em;}/* * Addresses styling not present in IE 8/9, Safari 5, and Chrome. */abbr[title]{border-bottom: 1px dotted;}/* * Addresses style set to `bolder` in Firefox 4+, Safari 5, and Chrome. */b,strong{font-weight: bold;}/* * Addresses styling not present in Safari 5 and Chrome. */dfn{font-style: italic;}/* * Addresses styling not present in IE 8/9. */mark{background: #ff0;color: #000;}/* * Corrects font family set oddly in Safari 5 and Chrome. */code,kbd,pre,samp{font-family: monospace, serif;font-size: 1em;}/* * Improves readability of pre-formatted text in all browsers. */pre{white-space: pre;white-space: pre-wrap;word-wrap: break-word;}/* * Sets consistent quote types. */q{quotes: "\201C" "\201D" "\2018" "\2019";}/* * Addresses inconsistent and variable font size in all browsers. */small{font-size: 80%;}/* * Prevents `sub` and `sup` affecting `line-height` in all browsers. */sub,sup{font-size: 75%;line-height: 0;position: relative;vertical-align: baseline;}sup{top: -0.5em;}sub{bottom: -0.25em;}/*==========================================================================Embedded content==========================================================================*//* * Removes border when inside `a` element in IE 8/9. */img{border: 0;}/* * Corrects overflow displayed oddly in IE 9. */svg:not(:root){overflow: hidden;}/*==========================================================================Figures==========================================================================*//* * Addresses margin not present in IE 8/9 and Safari 5. */figure{margin: 0;}/*==========================================================================Forms==========================================================================*//* * Define consistent border, margin, and padding. */fieldset{border: 1px solid #c0c0c0;margin: 0 2px;padding: 0.35em 0.625em 0.75em;}/* * 1. Corrects color not being inherited in IE 8/9. * 2. Remove padding so people aren't caught out if they zero out fieldsets. */legend{border: 0;/* 1 */ padding: 0;/* 2 */}/* * 1. Corrects font family not being inherited in all browsers. * 2. Corrects font size not being inherited in all browsers. * 3. Addresses margins set differently in Firefox 4+, Safari 5, and Chrome */button,input,select,textarea{font-family: inherit;/* 1 */ font-size: 100%;/* 2 */ margin: 0;/* 3 */}/* * Addresses Firefox 4+ setting `line-height` on `input` using `!important` in * the UA stylesheet. */button,input{line-height: normal;}/* * 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio` * and `video` controls. * 2. Corrects inability to style clickable `input` types in iOS. * 3. Improves usability and consistency of cursor style between image-type * `input` and others. */button,html input[type="button"], /* 1 */input[type="reset"],input[type="submit"]{-webkit-appearance: button;/* 2 */ cursor: pointer;/* 3 */}/* * Re-set default cursor for disabled elements. */button[disabled],input[disabled]{cursor: default;}/* * 1. Addresses box sizing set to `content-box` in IE 8/9. * 2. Removes excess padding in IE 8/9. */input[type="checkbox"],input[type="radio"]{box-sizing: border-box;/* 1 */ padding: 0;/* 2 */}/* * 1. Addresses `appearance` set to `searchfield` in Safari 5 and Chrome. * 2. Addresses `box-sizing` set to `border-box` in Safari 5 and Chrome * (include `-moz` to future-proof). */input[type="search"]{-webkit-appearance: textfield;/* 1 */ -moz-box-sizing: content-box;-webkit-box-sizing: content-box;/* 2 */ box-sizing: content-box;}/* * Removes inner padding and search cancel button in Safari 5 and Chrome * on OS X. */input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance: none;}/* * Removes inner padding and border in Firefox 4+. */button::-moz-focus-inner,input::-moz-focus-inner{border: 0;padding: 0;}/* * 1. Removes default vertical scrollbar in IE 8/9. * 2. Improves readability and alignment in all browsers. */textarea{overflow: auto;/* 1 */ vertical-align: top;/* 2 */}/*==========================================================================Tables==========================================================================*//* * Remove most spacing between table cells. */table{border-collapse: collapse;border-spacing: 0;}    
+    
+<!--END NORMALIZE  -->    	    
+
+
+    
+body 
+{
+    background-color:#FFFFFF;
+    width:1040px;
+    margin-top:10px;
+    height:auto;
+}
+
+header
+{
+    height:120px;
+    border:1px solid black;
+    text-align:center;
+    font-weight:bold;
+}
+
+a
+{
+    color:#996600;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+#wrapper 
+{ 
+    width:1040px;
+    min-width:1040px;
+    height:auto;
+    min-height: 550px;
+    background-color:#f2f2eb;
+	align:center;
+	font-family:"Times New Roman";
+    box-shadow:0px 10px 25px #A97D5D;
+    margin:0 auto;
+}
+
+
+nav > article
+{
+    height:35px;
+    background-color:#A97D5D;
+    border:1px solid black;
+}
+
+
+
+menu ul 
+{
+    list-style-type: none;
+    margin: 0px 0 15px 5px;
+    padding:0;
+    border: 0;
+}
+
+ 
+menu li 
+{
+    float:left;
+    text-align: center;
+	margin-left:15px;
+	width:130px;
+	margin: 0;
+	padding: 0;
+	font-size: medium;
+	font-weight: bold;
+	font-family: Georgia, Times, Serif;
+	color: black;
+}
+
+menu li a 
+{
+	display: block;
+	padding: 0;
+	text-decoration: none;
+	width:130px;
+	color:#2f2b2b;
+	
+}
+	
+menu li a:hover 
+{
+	font-weight: bold;
+	background: #f2f2eb;
+	color:black;
+	text-decoration: none;
+}
+	
+#search
+{
+	float:right;
+	margin-top:-5px;
+}	
+
+#leftcolumn ul
+{
+    list-style-type: none;
+    margin: 15px 0;
+    border: 0;
+}
+
+#leftcolumn li 
+{
+	text-align: left;
+	width:200px;
+	margin: 0;
+	padding: 0;
+	font-size: 75%;
+	font-weight: bold;
+	font-family: Georgia, Times, Serif;
+	color: black;
+}
+    
+#leftcolumn	li a 
+{
+	display: block;
+	padding: 2px 0 0 0.5em;
+	text-decoration: none;
+	width:170px;
+	color:#2f2b2b;
+	background:#f2f2eb;
+	height:20px;
+}
+	
+#leftcolumn	li a:hover 
+{
+	font-weight: bold;
+	background: #343131;
+	color:white;
+	text-decoration: none;
+}
+	
+#leftcolumn 
+{ 
+    float:left;
+    width:220px;
+    font-size:medium;
+    background-color:#f2f2eb;
+    box-shadow:0px 0px 5px  #A97D5D;
+    margin-top:20px;
+}
+
+
+#leftcolumn h3
+{
+    text-align:left;
+    background-color:#A97D5D;
+    border:1px solid black;
+    padding-left:5px;
+}	 
+
+#rightcolumn 
+{ 
+    margin-left:220px;
+    margin-top:20px;
+    min-height: 325px;
+    height:auto;
+    padding: 0px 10px 10px 10px;
+    font-family: "Whitney SSm A","Whitney SSm B",Helvetica,Arial,sans-serif;
+    font-size:100%;
+    text-align:justify;
+}
+
+#rightcolumn section
+{
+}
+
+#rightcolumn section article
+{
+  padding: 10px 10px 10px 10px;
+  box-shadow: 0px 0px 5px #A97D5D;
+  margin:0px 0px 10px;
+}
+
+
+#rightcolumn section a
+{
+}
+
+#rightcolumn section article h1
+{
+    background-color: #A97D5D;
+}
+
+#rightcolumn h3
+{
+    border-bottom: 1px solid #A97D5D;
+}
+
+#rightcolumn section article dl dt
+{
+    font-weight:bold;
+}
+
+#rightcolumn section article dd
+{
+    padding-bottom:5px;
+}
+
+.content 
+{
+    padding:0px 20px 10px 30px; 
+} 
+	  
+
+
+.post
+{}
+
+
+.posted-by
+{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 80%;
+    background-image: url('http://students.thenet.ca/cbuckton/images/postedby-bckgrd.png');    
+}
+
+.post-quote
+{
+    list-style-type: none;
+    font-style: italic;
+}
+
+.post-type
+{
+    width: 720px;
+    list-style-type: none;
+    font-size: 60%;
+    padding-right: 0;
+    margin: 0;
+    display: inline-block;
+    
+}
+
+.post-type li
+{
+    float: right;
+    padding: 0 10px 1px 0;
+}
+
+
+.tags
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    
+}
+
+.tags > li
+{
+    font-size: 70%;
+    margin: 5px 0 0 5px; 
+    display: inline;
+    float: left;
+            
+}
+
+.tags > li a
+{
+    padding: 2px 6px;
+    display: block;
+    text-decoration: none;
+    color: black;
+
+}
+
+.tags > li a:hover
+{
+    color: #f2f2eb;
+    background: black;
+}
+
+.tags-label
+{
+    border-top: 1px dotted #A97D5D;
+    margin: 0;
+    padding: 0;
+    font-size: small;
+    
+}
+
+
+#footer-main
+{
+    
+    margin: 10px;
+    font-weight: bold;
+    font-size: small; 
+	background-color: #f2f2eb;
+	color: black;
+	height: 88px;
+
+}	
+
+#footer-main p
+{
+
+    background-color: #A97D5D;
+    text-align: center;
+    height: 20px;
+    width: 100%;
+}	 
+
+
+
+.pagination
+{
+    display: block;
+    text-align: center;
+    margin: 10px 0;
+}
+
+
+.pagination a, .page-current
+{
+    
+    padding: 5px;
+    margin: 5px;
+    font-size: 120%    
+}
+
+.pagination a
+{
+    color: #A97D5D;
+    text-decoration: none;
+}
+
+
+.pagination a:visited
+{}
+
+.pagination a:hover
+{}
+
+.footer-main-toplinks
+{
+    text-decoration: underline;
+    color: black;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+
+}
+
+    </style>
+	
+</head>
+
+<body>
+    <div id="wrapper">
+    <header>
+	<h1>Intermediate Web Design & Development</h1>
+	<h1>Comp 1950</h1>
+	 
+	 </header>	
+	 
+  <nav>
+  
+     <article>    
+    <nav>
+     <article>    
+		  <menu>
+		<ul>
+			<li><a href="#">Home</a> </li>
+			<li><a href="#">Activities</a></li>
+			
+			<li><a href="#">Validate</a> </li>
+			<li><a href="#">Contact</a></li>
+			
+		</ul>
+		<div id="search">
+      <form>
+           <input type="text" value="" maxlength="255" size="20" name="q">
+          <input type="submit" value="Search">
+      </form>
+	  </div>
+	 </menu>
+	  		
+    </article>
+  </nav>
+	   <article>
+	
+        <div id="leftcolumn">
+         <h3>Lectures</h3>
+         <ul>															
+            <li> <a href="#">01 | Introduction</a></li>
+            <li> <a href="#">02 | Tools & Standards</a></li>
+            <li> <a href="#">03 | HTML5 & SEO</a></li>
+			<li> <a href="#">04 | CSS Concepts</a></li>
+			<li> <a href="#">05 | More CSS</a></li>
+			<li> <a href="#">06 | CSS and SSIs</a></li>
+			<li> <a href="#">07 | templates</a></li>
+			<li> <a href="#">09 | methodology</a></li>
+			<li> <a href="#">10 | jQuery / Git</a></li>
+			
+			
+	     </ul>
+          <h3>Contact</h3>
+		 </div>
+         
+    </nav>	
+     
+    <div id="rightcolumn">     
+     
+	              
+        <!-- **START OF POSTS** -->
+    		{block:Posts}
+                    
+			<section class="post">	
+        
+        <!-- START OF POSTED BY SECTION -->
+        
+                <article>
+    				<p class="posted-by">Posted by {PostAuthorName} 		
+    				{block:Date} 
+    					<time class="time" datetime="{Year}-{MonthNumberWithZero}-{DayOfMonthWithZero}">: {DayOfMonth}-{ShortMonth}-{Year} </time>
+    				{/block:Date}</p>
+    			   
+        <!-- START OF POSTED BY SECTION -->           
+                   
+        <!-- START OF TEXT POSTS -->
+    			
+                {block:text}
+    			
+                  {block:Title}
+                      <div class="post-title"><h3><a href="{Permalink}">{Title}</a></h3></div>
+                  {/block:Title}
+    					
+    			
+    				<div class="text">
+    					{Body}
+    				</div>
+    					
+    					
+    			{/block:text}
+    			
+        <!-- END OF TEXT POSTS -->
+        
+        <!-- START OF PHOTO POSTS -->
+                
+    				{block:Photo}
+                    
+                    {block:Title}
+                    <div class="post-title"><h3><a href="{Permalink}">{Title}</a></h3></div>
+                    {/block:Title}    
+    						
+    					{LinkOpenTag}
+    						<img class="image" src="{PhotoURL-500}" alt="{PhotoAlt}"/>
+    					{LinkCloseTag}
+    			
+    					{block:Caption} 
+    						{Caption}
+    					{/block:Caption}
+    						
+    			
+    				{/block:Photo}
+    			
+        <!-- END OF PHOTO POSTS -->  
+        
+        <!-- START OF LINK POSTS -->
+                
+    				{block:Link}
+    					{block:Title}
+    						<div class="post-title"><a href="{Permalink}">{Title}</a></div>
+    					{/block:Title}
+                            <h3><a href="{URL}" class="link" {Target}>{Name}</a></h3>
+    
+                            {block:Description}
+                                <div class="description">{Description}</div>
+                            {/block:Description}
+                        
+                    {/block:Link}
+
+        <!-- END OF LINK POSTS -->
+        
+        <!-- START OF QUOTES POSTS -->
+        
+                {block:Quote}
+                    <ul>
+                        <li class="post-quote">
+                            "{Quote}"
+    
+                            {block:Source}
+                                
+                                <div class="source"><br>- {Source}</div>
+                            {/block:Source}
+                        </li>
+                    </ul>
+                {/block:Quote}
+        
+        <!-- END OF QUOTES POSTS -->
+        
+        <!-- START OF POST FOOTERS -->
+                    <footer>      
+                        
+                        <p class="tags-label">Tags:</p>
+                        {block:HasTags}
+                            <ul class="tags">
+                                {block:Tags}
+                                    <li>
+                                        <a href="{TagURL}">#{Tag}</a>
+                                    </li>
+                                {/block:Tags}
+                            </ul>
+                        {/block:HasTags}
+                        
+                        
+                        <ul class="post-type">
+                            <li>{PostType}</li>
+                        </ul>
+                        
+                        
+                    </footer>
+    				
+    	<!-- END OF POST FOOTERS -->	
+        
+            </section>
+    	       
+    			{/block:Posts}	
+         
+        </section>
+        <!-- **END OF POSTS -->
+        
+    </div>
+        
+        <footer id="footer-main">
+        
+         <div class="pagination">
+            {block:Pagination}
+                {block:PreviousPage}
+                    <a href="{PreviousPage}">&#171; Previous</a>
+                {/block:PreviousPage}
+                
+                
+            {block:JumpPagination length="5"}
+                    {block:CurrentPage}
+                        <span class="page-current">{PageNumber}</span>
+                    {/block:CurrentPage}
+    
+                {block:JumpPage}
+                    <a class="page-jump" href="{URL}">{PageNumber}</a>
+                {/block:JumpPage}
+            {/block:JumpPagination}
+                    
+                    
+                {block:NextPage}
+                    <a href="{NextPage}">Next &#187;</a>
+                {/block:NextPage}
+            {/block:Pagination}
+        
+		</div>		
+
+            <a class="footer-main-toplinks"href="#top">Top of Page</a> | <a class="footer-main-toplinks" href="/">Home</a>
+
+			<p class="footer-main-copy"> Site design is Copyright&copy2012 Lament WebTeam All rights reserved. </p>
+		
+			
+        
+        </footer>
+        
+		
+    </div>
+     
+</body>
+</html>
