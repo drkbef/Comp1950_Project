@@ -18,76 +18,75 @@
 		<article>
 			<h3>Project Team - Lament</h3>
 
-<figure>
-	<img class="profile" src="images/profile.png" alt="colin">
-		<figcaption>Colin</figcaption>
-</figure>
-<figure>
-	<img class="profile" src="images/profile.png" alt="prasanna">
-		<figcaption>Prasanna</figcaption>
-</figure>
-<figure>
-	<img class="profile" src="images/profile.png" alt="jose">
-		<figcaption>Jose</figcaption>
-</figure>
-<figure>
-	<img class="profile" src="images/profile.png" alt="hawoon">
-		<figcaption>Hawoon</figcaption>
-</figure>    
-<figure>
-	<img class="profile" src="images/profile.png" alt="simon">
-		<figcaption>Simon</figcaption>
-</figure>
-      <p>Contact Team by Email : <a href="">Lament @ comp1950.project.ca</a></p>
-<table>
-<tbody><tr><td>
-	<h3>Colin</h3>
-	<ul>
-	 <li>Design secondary (D)</li>
-	 <li>Tumblr</li>
-	 <li>Editing written Content for pages</li>
-  </ul>
-</td></tr>
-<tr><td>
-	<h3>Prasanna</h3>
-	<ul>
-    <li>Design primary (D)</li>
-    <li>Proto Home(D)</li>
-    <li>Fake search function(D)</li>
-    <li>Proto Lecture</li>
-    <li>Vertical menus</li>
-  </ul>
-	</td></tr>
-<tr><td>
-<h3>Jose</h3>
-	<ul>
-    <li>Wireframes (D)</li>
-    <li>Proto Hom</li>
-    <li>Horizontal Menus</li>
-    <li>Sitemap</li>
-  </ul>
-  </td></tr>
-<tr><td>
-	<h3>Hawoon</h3>
-	<ul>
-    <li>Client Hompage</li>
-    <li>CSS and SHTML clean up</li>
-  </ul>
-	</td></tr>
-<tr><td>
-	<h3>Simon</h3>
-  
-	<ul>
-    <li>Client Hompage - Introduction to project</li>
-    <li>Client Rationale - Reasons for doing what we did</li>
-    <li>Client Artifacts</li>
-    <li>Team Descriptions</li>
-    <li>Editing written Content for pages</li>
-  </ul>
-  </td></tr></tbody></table>
-      
-      
-      
+			<figure>
+				<img class="profile" src="images/profile.png" alt="colin">
+				<figcaption>Colin</figcaption>
+			</figure>
+			<figure>
+				<img class="profile" src="images/profile.png" alt="prasanna">
+				<figcaption>Prasanna</figcaption>
+			</figure>
+			<figure>
+				<img class="profile" src="images/profile.png" alt="jose">
+				<figcaption>Jose</figcaption>
+			</figure>
+			<figure>
+				<img class="profile" src="images/profile.png" alt="hawoon">
+				<figcaption>Hawoon</figcaption>
+			</figure>    
+			<figure>
+				<img class="profile" src="images/profile.png" alt="simon">
+				<figcaption>Simon</figcaption>
+			</figure>
+				<p>Contact Team by Email : <a href="">Lament @ comp1950.project.ca</a></p>
+			<table>
+			<tbody>
+				<tr><td>
+				<h3>Colin</h3>
+				<ul>
+					<li>Design secondary (D)</li>
+					<li>Tumblr</li>
+					<li>Editing written Content for pages</li>
+				</ul>
+				</td></tr>
+				<tr><td>
+					<h3>Prasanna</h3>
+					<ul>
+					    <li>Design primary (D)</li>
+					    <li>Proto Home(D)</li>
+					    <li>Fake search function(D)</li>
+					    <li>Proto Lecture</li>
+					    <li>Vertical menus</li>
+					</ul>
+				</td></tr>
+				<tr><td>
+					<h3>Jose</h3>
+					<ul>
+					    <li>Wireframes (D)</li>
+					    <li>Proto Hom</li>
+					    <li>Horizontal Menus</li>
+					    <li>Sitemap</li>
+					</ul>
+				</td></tr>
+				<tr><td>
+					<h3>Hawoon</h3>
+						<ul>
+					    <li>Client Hompage</li>
+					    <li>CSS and SHTML clean up</li>
+					</ul>
+				</td></tr>
+				<tr><td>
+					<h3>Simon</h3>
+					<ul>
+					    <li>Client Hompage - Introduction to project</li>
+					    <li>Client Rationale - Reasons for doing what we did</li>
+					    <li>Client Artifacts</li>
+					    <li>Team Descriptions</li>
+					    <li>Editing written Content for pages</li>
+					</ul>
+				</td></tr>
+			</tbody>
+			</table>
 		</article>
 	</section>
 	</div>
