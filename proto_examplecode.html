@@ -1,0 +1,181 @@
+<!doctype html>
+
+  <head>
+    
+    <title>Example Codes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="proto_style.css">
+   </head>
+<body>
+      <div id="wrapper">
+	  <header>
+	  <h1>Intermediate Web Design & Development</h1>
+	 <h1>Comp 1950</h1>
+	 
+	 </header>	
+	 
+    <nav>
+     <article>	
+	  	    <!--  <a href="#">Home</a> -->
+		  <menu>
+		<ul>
+			<li><a href="#">Home</a> </li>
+			<li><a href="#">Activities</a></li>
+			
+			<li><a href="#">Validate</a> </li>
+			<li><a href="#">Contact</a></li>
+			
+		</ul>
+		<div id="search">
+      <form>
+           <input type="text" value="" maxlength="255" size="20" name="q">
+          <input type="submit" value="Search">
+      </form>
+	  </div>
+	 </menu>
+	  		
+    </article>
+  </nav>	
+      <aside>   
+        <div id="leftcolumn">
+         <h3>Lectures</h3>
+         <ul>															
+            <li><a href="#">01 | Introduction</a></li>           	
+            <li> <a href="#">02 | Tools & Standards</a></li>
+            <li> <a href="#">03 | HTML5 & SEO</a></li>
+			<li> <a href="#">04 | CSS Concepts</a></li>
+			<li> <a href="#">05 | More CSS</a></li>
+			<li> <a href="#">06 | CSS and SSIs</a></li>
+			<li> <a href="#">07 | templates</a></li>
+			<li> <a href="#">09 | methodology</a></li>
+			<li> <a href="#">10 | jQuery / Git</a></li>
+				
+	     </ul>
+		 
+		 <h3>Examples and Blog</h3>
+		    <ul>
+			<li><a href="#">Examples</a></li>
+          	<li><a href="#">Exercises</a></li>
+            <li><a href="#">Assignments</a></li>			
+            <li><a href="#">Blog</a></li>
+            				
+            </ul>
+		 
+		
+          <h3>Resources</h3>
+		    <ul>
+			<li><a href="#">my.bcit</a></li>
+          	<li><a href="#">bcit</a></li>	
+            <li><a href="#">bcit:computing</a></li>
+            <li><a href="#">alistair.com</a></li>			
+            </ul>
+	 
+		 </div>
+   </aside>	
+		 
+   
+
+    <div id="rightcolumn">
+    
+	    <section> 
+		    
+	          
+			  <article>
+			  <h1>Tools & Standards</h1>
+		       </article>
+			   <article>
+			   <h3>Firefox Extensions</h3>
+               <p>Extensions
+              <a href="https://addons.mozilla.org/extensions/?application=firefox"> https://addons.mozilla.org/extensions/?application=firefox </a>
+               </p>
+                <p>
+               There are many to choose from, with an entire category dedicated to
+               <a href="https://addons.mozilla.org/en-US/firefox/browse/type:1/cat:4">Web and Developer Tools</a>
+               </p>
+               <p>
+               The best tool for Web Developers is the
+               <a href="https://addons.mozilla.org/extensions/moreinfo.php?application=firefox&category=Developer%20Tools&numpg=10&id=60"> Web Developer toolbar </a>
+               </p>
+               <p>
+               The author, Chris Pedrick, maintains a
+               <a href="http://chrispederick.com/work/webdeveloper/"> site for the Web Developer extension </a>
+
+               </p>
+               <p>Some of the amazing tools this has to offer web developers: </p>
+               <p><strong>Firebug:</strong></p><a href="http://www.getfirebug.com">getfirebug.com</a>
+               <p></p>
+			   </article>
+			   <article>
+			     <h3>Standards Resources</h3>
+			        <ul>
+                        <li>
+                       WASP
+                       <a href="http://www.webstandards.org/">http://www.webstandards.org/</a>
+                       </li>
+                       <li>
+                       W3C
+                       <a href="http://www.w3c.org">http://www.w3c.org</a>
+                      </li>
+                       <li>
+                        W3C Sites
+                       <a href="http://www.w3csites.com/">http://www.w3csites.com/</a>
+                      </li>
+                      </ul>
+					   <p>Validate code<a href="http://validator.w3.org/">http://validator.w3.org/</a>
+                </article>
+				
+	         <article>  
+             <h3>Referencing CSS</h3>
+		     <h4>Linking your CSS</h4>
+              <p> A standard LINK element:</p>
+              <h5>&lt;link rel="stylesheet" type="text/css" href="http://www.mysite.com/css/styles.css" title="Main Style" media="screen" &gt;</h5>
+            		
+		      <h4> The @import Method</h4>
+              <h4>Example:</h4>
+		       <p>In your document, use the following within the &lt;head&gt; tag:</p>
+               <h5>&lt;link rel="stylesheet" type="text/css" href="/css/basic_styles.css" media="all"/&gt;</h5>
+               <h5>&lt;style type="text/css" media="all"> @import "/css/rich_styles.css";   &lt;/style&gt;</h5>
+               <p>
+                 This allows you to include basic styles in
+                <code>basic_styles.css</code>
+                (for older, or CSS-less-supported browsers) and have current styles for modern browsers in
+                <code>rich_styles.css</code>
+                </p>
+			    <p>
+                Further to that, you can use the
+                <code>@import</code>
+                method to import multiple stylesheets from a basic stylesheet that you link to. This will reduce the clutter that can sometimes occur within the
+               &lt;head></code> section.
+               </p>
+        
+              </p>
+               <p>It is also a great place to be able to manage your CSS from</p>
+             <h4>Example:</h4>
+		    <p>From your main document, create a &lt;link&gt;  to your  <code>styles.css</code> page (you can even use <code>media="screen"</code> , or <code>media="print"</code>
+            .)
+            <p>in the body of the <code>styles.css</code> file, import as many files as you need:</p>
+           <ul>
+             <li><code>@import url(/css/type.css);</code> </li>
+             <li><code>@import url(/css/nav.css);</code></li>
+             <li><code>@import url(/css/template.css);</code></li>
+           </ul>
+           <p></p>
+		   </article>
+			
+		
+	 
+	 </section>
+	  </div>
+	 <section>
+	  <footer>
+
+         <a href="#top">Top of Page</a>
+          |
+         <a href="/">Home</a>
+        <p> Site design is Copyright&copy2012 Lament WebTeam All rights reserved. </p>
+	   </footer>
+
+	</section>
+     </div>
+</body>
+</html>
