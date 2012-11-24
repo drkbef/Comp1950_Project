@@ -3,31 +3,28 @@
 
 <body>
 <div id="wrapper">
-	<header>
-	<h1>Client Site</h1>
-	<h2>rough test client site</h2>
-	</header>
+	<!--#include file="includes/header.inc"-->
 
 	<!--#include file="includes/navs.inc"-->
 
-	<div id="rightcolumn">
-	<section>
-    		<article>
-			<h3>Site Map</h3>
+<div id="rightcolumn">
+<section>
+    <article>
+		<h3>Site Map</h3>
+			<article>
+				<p>Client Project Sitemap</p>
+					<ul>
+					<li><a href="http://teams.thenet.ca/lament/ClientProjectSite/documents/csitemap.html">Site Map - Client</a></li>
+					</ul>
 			
-			<p>Client Project Sitemap</p>
-			<ul>
-				<li><a href="http://teams.thenet.ca/lament/ClientProjectSite/documents/csitemap.html">Site Map - Client</a></li>
-			</ul>
-			
-			<p>Proposed Sitemap for COMP1950 Web Site</p>
-			<ul>
-				<li><a href="http://teams.thenet.ca/lament/Comp1950Website/documents/sitemap.html">Site Map - COMP 1950</a></li>
-			</ul>
-			
-			</article>
-	</section>
-	</div>
+				<p>Proposed Sitemap for COMP1950 Web Site</p>
+					<ul>
+					<li><a href="http://teams.thenet.ca/lament/Comp1950Website/documents/sitemap.html">Site Map - COMP 1950</a></li>
+					</ul>
+			</article>			
+	</article>
+</section>
+</div>
 
 <!--#include file="includes/footer.inc"-->
 

@@ -3,7 +3,10 @@
 
 <body>
 <div id="wrapper">
-	<!--#include file="includes/header.inc"-->	
+	<header>
+	<h1>Client Site</h1>
+	<h2>rough test client site</h2>
+	</header>	
 
 	<!--#include file="includes/navs.inc"-->
 
@@ -85,6 +88,9 @@
     <li>Editing written Content for pages</li>
   </ul>
   </td></tr></tbody></table>
+      
+      
+      
       
       
       
