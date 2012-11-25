@@ -24,22 +24,22 @@ http://lamentfor.tumblr.com/
 
 ASSIGNED TASKS:
 
-Prasanna:  Design primary(D), Proto Home(D), Fake search function(D), Proto Lecture(D), vertical menus(D), Code Example page prototype(D)
+Prasanna:  Design primary(D), Proto Home(D), Fake search function(D), vertical menus(D), Code Example page prototype(D)
 
 Simon:  Client Hompage,  Client Rationale, Horizontal Menus(D), Proto Sitemap
 
 Hawoon:  Client Hompage, Client Rationale, Content for pages - Client Home (Introduction to project), Client Rationale (Our reasons for doing what we did), Team Descriptions (Who we are)
 
-Jose:  Wireframes (D), Proto Home(D),  Horizontal Menus(D), Proto Sitemap
+Jose:  Wireframes (D), Proto Home(D),  Proto Lecture(D), Horizontal Menus(D), Proto Sitemap, 
 
-Colin:  Design secondary(D), Tumblr, 420px Media Query on Prototype Site(D), Editing written Content for pages
+Colin:  Design secondary(D), Tumblr(D), 420px Media Query on Prototype Site(D), Editing written Content for pages
 
 
 UNASSIGNED TASKS:
 
 - Upload images of ourselves
 - Make protosite use SSIs
-- Add HTML5 shiv to all pages (use SSI), as well as file in folder
+- Add HTML5 shiv to all pages, as well as add the .js shiv file in folder
 - Visual Cleanup
 
 - Implement a content management system (CMS) for easy updates (listed in the client FAQ, search for CMS) 		
