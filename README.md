@@ -32,7 +32,7 @@ Hawoon:  Client Hompage, Client Rationale, Content for pages - Client Home (Intr
 
 Jose:  Wireframes (D), Proto Home,  Horizontal Menus, Sitemap
 
-Colin:  Design secondary(D), Tumblr, Editing written Content for pages
+Colin:  Design secondary(D), Tumblr, 420px Media Query on Prototype Site(D), Editing written Content for pages
 
 
 UNASSIGNED TASKS:
@@ -40,7 +40,6 @@ UNASSIGNED TASKS:
 - Code Example page prototype
 - Implement a content management system (CMS) for easy updates (listed in the client FAQ, search for CMS) 		
 		->  Does anyone understand what he means by implementing a CMS?
-- Handheld version - Media Query
 - Visual Cleanup
 
 
