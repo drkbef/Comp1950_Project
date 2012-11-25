@@ -93,7 +93,11 @@
 
 <!--#include file="includes/footer.inc"-->
 
-</div>  
+</div>
+
+<!--#include file="includes/validator_start.inc"-->
+<!--#echo var="DOCnUMENT_URI"-->
+<!--#include file="includes/validator_end.inc"-->
 
 </body>
 </html>
