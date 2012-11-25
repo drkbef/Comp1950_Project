@@ -21,6 +21,7 @@
 body 
 {
     background-color:#FFFFFF;
+    margin:0 auto;
     width:1040px;
     margin-top:10px;
     height:auto;
@@ -29,7 +30,6 @@ body
 header
 {
     height:120px;
-    border:1px solid black;
     text-align:center;
     font-weight:bold;
 }
@@ -43,15 +43,17 @@ a
 
 #wrapper 
 { 
+    margin:0 auto;
     width:1040px;
-    min-width:1040px;
-    height:auto;
-    min-height: 550px;
-    background-color:#f2f2eb;
+	min-width:1040px;
+	height:auto;
+	background-color:#f2f2eb;
+	border:1px solid black;
 	align:center;
 	font-family:"Times New Roman";
-    box-shadow:0px 10px 25px #A97D5D;
-    margin:0 auto;
+	box-shadow:0px 10px 25px #A97D5D;
+    
+
 }
 
 nav#main {
@@ -62,12 +64,12 @@ nav#main {
 }
 
 nav#main ul {
-	list-style-type: none;
+    list-style-type: none;
 	margin: 15px 0;
 	border: 0;
 }
 nav#main li	{
-	float:left;
+    float:left;
 	text-align: center;
 	margin-left:15px;
 	width:150px;
@@ -79,14 +81,14 @@ nav#main li	{
 	color: black;
 }
 nav#main li a {
-	display: block;
+    display: block;
 	padding: 0;
 	text-decoration: none;
 	width:150px;
 	color:#2f2b2b;
 }
 nav#main li a:hover	{
-	font-weight: bold;
+    font-weight: bold;
 	background: #343131;
 	color:white;
 	text-decoration: none;
@@ -94,9 +96,10 @@ nav#main li a:hover	{
 
 #search
 {
-    margin: -5px 5px 0 0;
-	float:right;
+    float:right;
 	margin-top:-5px;
+    font-family: "Whitney SSm A","Whitney SSm B",Helvetica,Arial,sans-serif;
+    font-size: 90%;
 }	
 
 #leftcolumn ul
@@ -108,7 +111,7 @@ nav#main li a:hover	{
 
 #leftcolumn li 
 {
-	text-align: left;
+    text-align: left;
 	width:200px;
 	margin: 0;
 	padding: 0;
@@ -120,7 +123,7 @@ nav#main li a:hover	{
     
 #leftcolumn	li a 
 {
-	display: block;
+    display: block;
 	padding: 2px 0 0 0.5em;
 	text-decoration: none;
 	width:170px;
@@ -139,33 +142,35 @@ nav#main li a:hover	{
 	
 #leftcolumn 
 { 
-    float:left;
-    width:220px;
-    font-size:medium;
-    background-color:#f2f2eb;
-    box-shadow:0px 0px 5px  #A97D5D;
-    margin-top:20px;
+    float: left;
+	width: 220px;
+	font-size: medium;
+	height: auto;
+	background-color: #f2f2eb;
+	box-shadow: 0px 0px 5px  #A97D5D;
+	margin-top: 22px;
 }
 
 
 #leftcolumn h3
 {
-    text-align:left;
-    background-color:#A97D5D;
-    border:1px solid black;
-    padding-left:5px;
-}	 
+    text-align: left;
+	background-color: #A97D5D;
+	border: 1px solid black;
+	border-left: none;
+	padding-left: 5px;
+}
 
 #rightcolumn 
 { 
-    margin-left:220px;
-    margin-top:20px;
-    min-height: 325px;
-    height:auto;
-    padding: 0px 10px 10px 10px;
-    font-family: "Whitney SSm A","Whitney SSm B",Helvetica,Arial,sans-serif;
-    font-size:100%;
-    text-align:justify;
+    margin-left: 220px;
+	margin-top: 20px;
+	height: auto;
+    min-height: 576px;
+	padding: 0px 10px 10px 10px;
+	font-family: "Whitney SSm A","Whitney SSm B",Helvetica,Arial,sans-serif;
+	font-size: 100%;
+	text-align: justify;
 }
 
 #rightcolumn section
@@ -174,14 +179,17 @@ nav#main li a:hover	{
 
 #rightcolumn section article
 {
-  padding: 10px 10px 10px 10px;
-  box-shadow: 0px 0px 5px #A97D5D;
-  margin:0px 0px 10px;
+    padding: 10px 10px 10px 10px;
+	box-shadow: 0px 0px 5px #A97D5D;
+	margin:0px 0px 10px;
 }
 
 
 #rightcolumn section a
 {
+    color:#996600;
+	font-weight:bold;
+	text-decoration:none;
 }
 
 #rightcolumn section article h1
@@ -290,26 +298,47 @@ nav#main li a:hover	{
 }
 
 
-#footer-main
-{
-    
-    margin: 10px;
-    font-weight: bold;
-    font-size: small; 
-	background-color: #f2f2eb;
+#footer    {
+	clear:both;
+	height: 94px;
+	text-align:center;		
+	background-color:#A97D5D;
+	border-top:1px solid black;*/
+}
+
+#footer ul {
+	list-style-type: none;
+	margin: 15px 0;
+	border: 0;
+}
+
+#footer li {
+	float:right;
+	text-align: center;
+	margin-left:15px;
+	width:150px;
+	margin: 0;
+	padding: 0;
+	font-size: 90%;
+	font-weight: bold;
+	font-family: Georgia, Times, Serif;
 	color: black;
-	height: 88px;
+}
 
-}	
+#footer li a	{
+	display: block;
+	padding: 0;
+	text-decoration: none;
+	width:150px;
+	color:#2f2b2b;
+}
 
-#footer-main p
-{
-
-    background-color: #A97D5D;
-    text-align: center;
-    height: 20px;
-    width: 100%;
-}	 
+#footer li a:hover	{
+	font-weight: bold;
+	background: #343131;
+	color:white;
+	text-decoration: none;
+}
 
 
 
@@ -331,7 +360,7 @@ nav#main li a:hover	{
 
 .pagination a
 {
-    color: #A97D5D;
+    color: white;
     text-decoration: none;
 }
 
@@ -352,54 +381,225 @@ nav#main li a:hover	{
 
 }
 
+
+/*
+MEDIA QUERY
+*/
+
+@media only screen and (max-width: 480px), only handheld {
+    .state:after {
+		content: "Under 480";
+	}
+	
+
+	body
+	{
+		width: 480px;
+		margin-top: 0;
+	}
+	
+		
+	header 
+	{
+		width: 432px;
+		height: auto;
+	}
+	
+	header h1  {
+		margin: 0;
+	}
+	
+    img {
+        max-width: 100%;
+    }
+    
+	#wrapper
+	{
+		padding: 0 10px;
+		min-width: 0;
+		width: 480px;
+		border: none;
+		box-shadow: none;
+	}
+	
+	nav#main {
+		margin: 10px 0 0 0;
+		width: 432px;
+		height: 60px;
+		padding: 15px 0 0 0px;
+		border:1px solid black;
+	}
+
+	nav#main ul {
+		list-style-type: none;
+		margin: 15px 0;
+		border: 0;
+		padding: 0;
+		margin: 0;
+		padding-bottom: 30px;
+	}
+	
+	nav#main li {
+		float: left;
+		text-align: center;
+		margin-left: 15px;
+		width: 25%;
+		margin: 0;
+		padding: 0;
+	}
+	
+	nav#main li a {
+		display: block;
+		padding: 0;
+		text-decoration: none;
+		width: auto;
+		color:#2f2b2b;
+	}
+	
+	nav#main li a:hover	{
+		font-weight: bold;
+		background: #343131;
+		color:white;
+		text-decoration: none;
+	}
+	
+	#search  {
+		float: none;
+		padding: 0 0 0 120px;
+	
+	}
+
+	#media-hide {
+		display: none;
+	}
+
+	
+	#leftcolumn { 
+    	float: none;
+		height: 144px;
+		width: 432px;
+		margin-top: 10px;
+		padding-bottom: 5px;
+		border: 1px solid black;
+	} 
+  
+	#leftcolumn ul {
+		padding: 5px 20px;
+		list-style-type: none;
+		margin: 5px 0;
+		border: 0;
+	}
+
+	#leftcolumn li {
+		float: left;
+		text-align: left;
+		width: 50%;
+
+	}
+	
+	#leftcolumn	li a {
+	}
+	
+	#leftcolumn	li a:hover {
+	}
+	
+	#leftcolumn h3 {
+		margin: 0;
+		border: none;
+		border-bottom: 1px solid black;
+	}	 
+
+	#rightcolumn { 
+		font-size: 80%;
+		margin: 0;
+		margin-top: 11px;
+		width: 432px;
+		height:auto;
+		padding: 0 1px;
+
+	}
+
+	#footer	{
+		font-size: 80%;
+		font-weight: bold;
+		height: 70px;
+		width: 432px;
+		border:1px solid black;
+	}   
+}
+
+
+
+
+
+
+
     </style>
 	
 </head>
 
 <body>
     <div id="wrapper">
-    <header>
-	<h1>Intermediate Web Design & Development</h1>
-	<h1>Comp 1950</h1>
+    	<header>
+			<h1>Intermediate Web Design & Development</h1>
+			<h1>Comp 1950</h1>
 	 
-	 </header>	
+		</header>	
 	 
-    <nav id="main">
-		<ul>
-			<li><a href="#">Home</a></li>
-			<li><a href="#">Activities</a> </li>
-			<li><a href="#">Validate</a> </li>
-            <li><a href="#">Contact</a> </li>
-		</ul>
-        
-        <div id="search">
-            <form>
-                <input type="text" value="" maxlength="255" size="20" name="q">
-                <input type="submit" value="Search">          
-            </form>
-        </div>
-        
-	</nav>
-	
-        <div id="leftcolumn">
-         <h3>Lectures</h3>
-         <ul>															
-            <li> <a href="#">01 | Introduction</a></li>
-            <li> <a href="#">02 | Tools & Standards</a></li>
-            <li> <a href="#">03 | HTML5 & SEO</a></li>
-			<li> <a href="#">04 | CSS Concepts</a></li>
-			<li> <a href="#">05 | More CSS</a></li>
-			<li> <a href="#">06 | CSS and SSIs</a></li>
-			<li> <a href="#">07 | templates</a></li>
-			<li> <a href="#">09 | methodology</a></li>
-			<li> <a href="#">10 | jQuery / Git</a></li>
-			
-			
-	     </ul>
-          <h3>Contact</h3>
-		 </div>
-         
-    </nav>	
+		<nav id="main">
+     
+			<ul>
+				<li><a href="#">Home</a> </li>
+				<li><a href="#">Activities</a></li>
+				
+				<li><a href="#">Validate</a> </li>
+				<li><a href="#">Contact</a></li>
+				
+			</ul>
+		
+			<form id="search">
+				<input type="text" value="" maxlength="255" size="20" name="q">
+				<input type="submit" value="Search">
+			</form>
+
+		</nav>	
+
+		<aside>   
+			<div id="leftcolumn">
+				<h3>Lectures</h3>
+				<ul>															
+					<li><a href="#">01 | Introduction</a></li>           	
+					<li> <a href="#">02 | Tools & Standards</a></li>
+					<li> <a href="#">03 | HTML5 & SEO</a></li>
+					<li> <a href="#">04 | CSS Concepts</a></li>
+					<li> <a href="#">05 | More CSS</a></li>
+					<li> <a href="#">06 | CSS and SSIs</a></li>
+					<li> <a href="#">07 | templates</a></li>
+					<li> <a href="#">09 | methodology</a></li>
+					<li> <a href="#">10 | jQuery / Git</a></li>
+						
+				</ul>
+					<div id="media-hide"> 
+						<h3>Examples and Blog</h3>
+						<ul>
+							<li><a href="#">Examples</a></li>
+							<li><a href="#">Exercises</a></li>
+							<li><a href="#">Assignments</a></li>			
+							<li><a href="#">Blog</a></li>
+										
+						</ul>
+					 
+					
+						<h3>Resources</h3>
+						<ul>
+							<li><a href="#">my.bcit</a></li>
+							<li><a href="#">bcit</a></li>	
+							<li><a href="#">bcit:computing</a></li>
+							<li><a href="#">alistair.com</a></li>			
+						</ul>
+					</div>
+			</div>
+		</aside>	
      
     <div id="rightcolumn">     
      
@@ -525,7 +725,7 @@ nav#main li a:hover	{
         
     </div>
         
-        <footer id="footer-main">
+        <footer id="footer">
         
          <div class="pagination">
             {block:Pagination}
@@ -552,9 +752,9 @@ nav#main li a:hover	{
         
 		</div>		
 
-            <a class="footer-main-toplinks"href="#top">Top of Page</a> | <a class="footer-main-toplinks" href="/">Home</a>
 
-			<p class="footer-main-copy"> Site design is Copyright&copy2012 Lament WebTeam All rights reserved. </p>
+
+			<p class="footer-main-copy"> Site design is Copyright &copy2012 Lament WebTeam All rights reserved. </p>
 		
 			
         

@@ -32,11 +32,12 @@ Hawoon:  Client Hompage, Client Rationale, Content for pages - Client Home (Intr
 
 Jose:  Wireframes (D), Proto Home(D),  Proto Lecture(D), Horizontal Menus(D), Proto Sitemap, 
 
-Colin:  Design secondary(D), Tumblr(D), 420px Media Query on Prototype Site(D), Editing written Content for pages
+Colin:  Design secondary(D), Tumblr(D), 420px Media Query: Prototype Sites & Tumblr(D), Editing written Content for pages
 
 
 UNASSIGNED TASKS:
 
+- Create a more attractive Header for all pages.
 - Upload images of ourselves
 - Make protosite use SSIs
 - Add HTML5 shiv to all pages, as well as add the .js shiv file in folder
