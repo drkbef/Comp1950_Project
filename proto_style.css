@@ -1,3 +1,5 @@
+
+
 body {
 	background-color:#FFFFFF;
 	margin:0 auto;
@@ -25,12 +27,42 @@ header {
 }
 	
 
-nav>article {
+nav#main {
 	height:35px;
 	background-color:#A97D5D;
 	border-top:1px solid black;
 	border-bottom:1px solid black;
+}
 
+nav#main ul {
+	list-style-type: none;
+	margin: 15px 0;
+	border: 0;
+}
+nav#main li {
+	float:left;
+	text-align: center;
+	margin-left:15px;
+	width:150px;
+	margin: 0;
+	padding: 0;
+	font-size: 90%;
+	font-weight: bold;
+	font-family: Georgia, Times, Serif;
+	color: black;
+}
+nav#main li a {
+	display: block;
+	padding: 0;
+	text-decoration: none;
+	width:150px;
+	color:#2f2b2b;
+}
+nav#main li a:hover	{
+	font-weight: bold;
+	background: #343131;
+	color:white;
+	text-decoration: none;
 }
 
 
@@ -42,7 +74,6 @@ nav>article {
 
  #leftcolumn li {
 	text-align: left;
-	
 	width:200px;
 	margin: 0;
 	padding: 0;
@@ -51,7 +82,7 @@ nav>article {
 	font-family: Georgia, Times, Serif;
 	color: black;
 	
-	}
+}
     
 	
 	
@@ -225,3 +256,21 @@ menu li a:hover {
 
 
 
+
+@media only screen and (max-width: 600px), only handheld {
+	.state:after {
+		content: "Under 600";
+	}
+	
+	body
+	{
+		width: 600px;
+	}
+	
+	#wrapper
+	{
+		width: 100%;
+	}
+	
+	
+}
