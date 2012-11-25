@@ -29,9 +29,7 @@
 
 </div>  
 
-<!--#include file="includes/validator_start.inc"-->
-<!--#echo var="DOCnUMENT_URI"-->
-<!--#include file="includes/validator_end.inc"-->
+<!--#include file="includes/validator_start.inc"--><!--#echo var="REQUEST_URI"--><!--#include file="includes/validator_end.inc"-->
 
 </body>
 </html>
