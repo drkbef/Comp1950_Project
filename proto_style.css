@@ -257,14 +257,15 @@ menu li a:hover {
 
 
 
-@media only screen and (max-width: 600px), only handheld {
+@media only screen and (max-width: 480px), only handheld {
 	.state:after {
-		content: "Under 600";
+		content: "Under 480";
 	}
 	
 	body
 	{
-		width: 600px;
+		width: 480px;
+		
 	}
 	
 	#wrapper
