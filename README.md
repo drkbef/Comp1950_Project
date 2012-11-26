@@ -45,8 +45,8 @@ UNASSIGNED TASKS:
 <Please let me know if any tasks are missing!!>
 
 ********* FINAL TASK LIST BEFORE SUBMISSION  *************************
-- proto_02.shtml html5 validator failed (seems can't have ul inside ul?)
-- (note: ssi validator only works in http://teams.thenet.ca/ server)
+- (Done) proto_02.shtml html5 validator failed (seems can't have ul inside ul?) 
+- 		(note: ssi validator only works in http://teams.thenet.ca/ server)
 
 ********proto site**********
 - Horizontal navagation needs content
