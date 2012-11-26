@@ -42,19 +42,16 @@ UNASSIGNED TASKS:
 - Add HTML5 shiv to all pages, as well as add the .js shiv file in folder
 - Visual Cleanup
 
-
 <Please let me know if any tasks are missing!!>
 
-
-********* FINAL TASK LIST BEFORE SUBMISSION  ************************* november 26 2012
+********* FINAL TASK LIST BEFORE SUBMISSION  *************************
 - proto_02.shtml html5 validator failed (seems can't have ul inside ul?)
-
+- (note: ssi validator only works in http://teams.thenet.ca/ server)
 
 ********proto site**********
 - Horizontal navagation needs content
 - finalize proto sites!
 - finalize proto css  ! (client css is finalized)
-
 
 ********client site**********
 - proto site map needs need to be fixed up
