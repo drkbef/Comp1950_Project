@@ -69,18 +69,18 @@
 			<ul>
                 <li><a href="#">First Finnegan photo</a></li>
 				<li><a href="#">Second Finnegan photo</a></li>
-				<li class="title">Requirements</li>
+				<li class="title">Requirements
 				<ul>
                 <li>Make sure your page validates as XHTML Strict. Use the W3C Validator, and add link from the page directly to the validator using a referer (do some research on how to do this)</li>
                 <li>Use CSS to create the presentation layer, fonts and measurements don't have to be exact. The page should have a strong resemblance</li>
                 <li>Use any layout scheme you would like (tables, CSS, etc)</li>
                 </ul>
-              
-              <li class="title">Suggestion</li>
+				</li>
+              <li class="title">Suggestion
 	          
 	          	<ul>
                 <li>Try to use some of the plugins we looked at today to help you determine how to build the page properly</li>
-               	</ul>
+               	</ul></li>
               
 		</ul></article>
 	</div>
