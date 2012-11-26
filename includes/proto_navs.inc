@@ -1,8 +1,8 @@
 <nav id="main">
 	<ul>
-	 <li><a href="#">Home</a> </li>
-	 <li><a href="#">Activities</a></li>
-	 <li><a href="#">Validate</a> </li>
+	 <li><a href="proto_home.shtml">Home</a> </li>
+	 <li><a href="proto_example_code.shtml">Activities</a></li>
+	 <li><a href="proto_assignments.shtml">Assignments</a> </li>
 	 <li><a href="#">Contact</a></li>
 	</ul>
 
@@ -29,14 +29,13 @@
 	</section>
      <div id="media-hide">
  	<section>	
-	   	<h3>Examples and Blog</h3>
+	   	<h3>Tools and Blog</h3>
 			<ul>
-			 <li><a href="proto_tools.shtml">Tools</a></li>
-			 <li><a href="proto_example_code.shtml">Example Codes</a></li>
-			 <li><a href="#">Exercises</a></li>
-			 <li><a href="proto_assignments.shtml">Assignments</a></li>			
-			 <li><a href="http://lamentfor.tumblr.com/">Blog</a></li>			
+			 <li><a href="proto_tools.shtml">Tools</a></li>	
+			 <li><a href="http://lamentfor.tumblr.com/">Blog</a></li>
+			 <li><a href="index.shtml">Client Site </a></li>	 
 			</ul>
+			<p>Note: Client Site link only available until project completed</p>	
 	</section>
  	<section>	 
 		<h3>Resources</h3>

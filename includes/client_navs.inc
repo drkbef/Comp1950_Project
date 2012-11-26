@@ -1,7 +1,7 @@
 <nav id="main">
 	<ul>
-	 <li><a href="">Client Site</a></li>
-	 <li><a href="proto_01.shtml">Protosite</a></li>
+	 <li><a href="index.shtml">Client Site</a></li>
+	 <li><a href="proto_home.shtml">Protosite</a></li>
 	</ul>
 </nav>
 

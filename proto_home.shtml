@@ -8,18 +8,15 @@
 	<div id="rightcolumn">
 	    <section> 
 			  <article>
-			  <h3>Week 01 - The Agenda</h3>
-              <ul>
-                <li>about this course (outline, administrivia, assignments, etc)</li>
-                <li>introductions (me, you)</li>
-                <li>web space (thenet.ca)</li>
-                <li>some expectations &amp; reminders</li>
-                <li>today's assignment</li>
-              </ul>
+			  <h1>Fall 2012 - Welcome!</h1>
+			  <h3>About This Course</h3>
+              <p>
+                COMP 1950 is a required course for the Applied Web Development Associate Certificate and is an elective in Web Application Software Development, as well as the CST Diploma. Students receive hands-on exposure to industry-standard web development methodology and will be able to design and build intermediate level websites. Prerequisites: COMP 1850 or equivalent HTML and CSS knowledge. (3 Credits)
+              </p>
 
 			   
 	      <article>
-		      <h3>Introductions</h3>
+		      <h3>Basic Information</h3>
                <p><strong>Official</strong>
                details about the who, what, where and how are located in the
                <a href="http://www.bcit.ca/study/courses/comp1950">course info</a>
@@ -114,7 +111,11 @@
                <li>Are there subjects not covered here?</li>
            </ul>
       </article>
-	  
+	  <article>
+           <h4>Let's get started!</h4>
+              Let's go onto
+             <a href="proto_01">week one</a>
+      </article>
         </article>
 	</section>
 	</div>
