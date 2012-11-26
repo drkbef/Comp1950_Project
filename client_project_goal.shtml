@@ -45,7 +45,7 @@
 				<h3>Colin</h3>
 				<ul>
 					<li>Layout Design - Secondary</li>
-					<li>Proto Home Media Queries</li>
+					<li>Proto Site Media Queries</li>
 					<li>Blog - Tumblr</li>
 					<li>CSS and SHTML clean up </li>
 				</ul>
@@ -55,7 +55,7 @@
 					<ul>
 						<li>Layout Design - Primary</li>
 					    <li>Proto Home - Editing and written content</li>
-						<li>Proto Lecture - Editing and written content</li>
+						<li>Proto Code Example Page - Editing and written content</li>
 						<li>Vertical Navigation</li>
 					    <li>Search Function</li>
 					</ul>
@@ -84,7 +84,7 @@
 					    <li>Client Hompage - Introduction to project and Team Descriptions</li>
 					    <li>Client Rationale - Reasons for doing what we did</li>
 					    <li>Client Artifacts</li>
-						<li>Client Project Overview Pages</li>
+						<li>Client Project Overview Page(s)</li>
 					    <li>CSS and SHTML clean up</li>
 					</ul>
 				</td></tr>
