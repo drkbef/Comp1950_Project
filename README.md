@@ -43,8 +43,5 @@ UNASSIGNED TASKS:
 - Add HTML5 shiv to all pages, as well as add the .js shiv file in folder
 - Visual Cleanup
 
-- Implement a content management system (CMS) for easy updates (listed in the client FAQ, search for CMS) 		
-		->  Does anyone understand what he means by implementing a CMS?
-
 
 Please let me know if any tasks are missing!!
