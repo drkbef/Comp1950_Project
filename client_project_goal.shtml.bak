@@ -18,19 +18,19 @@
 			<h3>Project Team - Lament</h3>
 
 			<figure>
-				<img class="profile" src="images/colin.jpg" alt="colin">
+				<img class="profile" src="images/profile.png" alt="colin">
 				<figcaption>Colin</figcaption>
 			</figure>
 			<figure>
-				<img class="profile" src="images/prasanna.jpg" alt="prasanna">
+				<img class="profile" src="images/profile.png" alt="prasanna">
 				<figcaption>Prasanna</figcaption>
 			</figure>
 			<figure>
-				<img class="profile" src="images/jose.jpg" alt="jose">
+				<img class="profile" src="images/profile.png" alt="jose">
 				<figcaption>Jose</figcaption>
 			</figure>
 			<figure>
-				<img class="profile" src="images/hawoon.jpg" alt="hawoon">
+				<img class="profile" src="images/profile.png" alt="hawoon">
 				<figcaption>Hawoon</figcaption>
 			</figure>    
 			<figure>
