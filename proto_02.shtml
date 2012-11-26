@@ -12,7 +12,7 @@
 	          
 			  <article>
 			  <hgroup>
-			  <h1>TOOLS AND STANDARDS</h1>
+			  <h1>Tools and Standards</h1>
 		      <h3>Agenda: </h3>
 			  </hgroup>
               <ul>
@@ -97,8 +97,6 @@
              ...
              
       </article>
-	 </section> 
-	 </div>
 	</section>
 	</div>
 <!--#include file="includes/footer.inc"-->

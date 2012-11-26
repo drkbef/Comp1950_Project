@@ -85,13 +85,12 @@
             .)
             <p>in the body of the <code>styles.css</code> file, import as many files as you need:</p>
            <ul>
-             <li><code>@import url(/css/type.css);</code> </li>
+             <li><code>@import url(/css/type.css);</code></li>
              <li><code>@import url(/css/nav.css);</code></li>
              <li><code>@import url(/css/template.css);</code></li>
            </ul>
-           <p></p>
-		   </article>
-			
+
+      </article>
 	</section>
 	</div>
 <!--#include file="includes/footer.inc"-->
