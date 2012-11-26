@@ -35,7 +35,7 @@
 			 <li><a href="proto_example_code.shtml">Example Codes</a></li>
 			 <li><a href="#">Exercises</a></li>
 			 <li><a href="proto_assignments.shtml">Assignments</a></li>			
-			 <li><a href="proto_blog.shtml">Blog</a></li>			
+			 <li><a href="http://lamentfor.tumblr.com/">Blog</a></li>			
 			</ul>
 	</section>
  	<section>	 

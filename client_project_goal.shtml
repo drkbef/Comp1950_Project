@@ -73,7 +73,7 @@
 						<ul>
 						<li>Finalized Client Navagation</li>
 						<li>Finalized Client CSS and Includes</li>
-						<li>Validator With Media Queries</li>
+						<li>Validator With SSI</li>
 						<li>CSS and SHTML clean up</li>
 					</ul>
 				</td></tr>
