@@ -8,21 +8,20 @@
 	<div id="rightcolumn">
     
 	    <section> 
-		    
-	          
+
 			  <article>
 			  <hgroup>
 			  <h1>Tools and Standards</h1>
-		      <h3>Agenda: </h3>
+		      <h3>Week 02 - The Agenda  </h3>
 			  </hgroup>
               <ul>
                 <li>Web review: some reminders </li>
                 <li>Web Development with Firefox, Chrome and Safari </li>
-                <li>Standards & Semantics </li>
+                <li>Standards &amp; Semantics </li>
                 <li>XHTML Review</li>
                 <li>Exercises/Assignment</li>
               </ul>
-              </article>
+              
 			  <article>
 			  <h3>Web Review </h3>
               <ul>
@@ -30,7 +29,7 @@
 				<ul>
 					<li>capital letters</li>
 					<li>spaces</li>
-					<li>special characters: ! @ # $ % ^ & * ( ) + { } [ ] : ; " < > ? |</li>
+					<li>special characters: ! @ # $ % ^ &amp; * ( ) + { } [ ] : ; " &lt; &gt; ? |</li>
 					<li>cceptable non-alphanumeric characters: . _ - ~ </li>
 				</ul></li>
                 <li>default page: index.htm, index.html or index.shtml (or whatever your server default is)</li>
@@ -41,7 +40,7 @@
 		      <h3>Web Development with Firefox, Chrome and Safari </h3>
                <p><strong>Browser Tools</strong>
                
-              <p>Lot of Options </p>
+              </p><p>Lot of Options </p>
 	          <ul>
                 <li>These days there are lots of browser-based tools available for web developers</li>
                 <li>Webkit (Chrome, Safari) and Mozilla (Firefox) both have built-in tools</li>
@@ -66,7 +65,7 @@
 		  <article id="Exer2">
 		      <h3>Exercise 2 - Using Xhtml </h3>
 			  <p><strong>General Instruction</strong>
-			  <p>Take the content located on the content page, and make it look as close to this example page as possible. </p>
+			  </p><p>Take the content located on the content page, and make it look as close to this example page as possible. </p>
 
 			<p>All of the images are located here:</p>
 			<ul>
@@ -88,15 +87,8 @@
                 <li>Try to use some of the plugins we looked at today to help you determine how to build the page properly</li>
                
               </ul>
-			  
-			
-		 </article>
-			   
-	  <article>
-           <h4>Let's move onto <a href="#week3/">week three</a>!</h4>
-             ...
-             
-      </article>
+		</ul></article>
+		</article>
 	</section>
 	</div>
 <!--#include file="includes/footer.inc"-->

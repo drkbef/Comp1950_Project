@@ -8,53 +8,8 @@
 	<div id="rightcolumn">
     
 	    <section> 
-		    
-	          
-			  <article>
-			  <h1>Tools & Standards</h1>
-		       </article>
-			   <article>
-			   <h3>Firefox Extensions</h3>
-               <p>Extensions
-              <a href="https://addons.mozilla.org/extensions/?application=firefox"> https://addons.mozilla.org/extensions/?application=firefox </a>
-               </p>
-                <p>
-               There are many to choose from, with an entire category dedicated to
-               <a href="https://addons.mozilla.org/en-US/firefox/browse/type:1/cat:4">Web and Developer Tools</a>
-               </p>
-               <p>
-               The best tool for Web Developers is the
-               <a href="https://addons.mozilla.org/extensions/moreinfo.php?application=firefox&category=Developer%20Tools&numpg=10&id=60"> Web Developer toolbar </a>
-               </p>
-               <p>
-               The author, Chris Pedrick, maintains a
-               <a href="http://chrispederick.com/work/webdeveloper/"> site for the Web Developer extension </a>
-
-               </p>
-               <p>Some of the amazing tools this has to offer web developers: </p>
-               <p><strong>Firebug:</strong></p><a href="http://www.getfirebug.com">getfirebug.com</a>
-               <p></p>
-			   </article>
-			   <article>
-			     <h3>Standards Resources</h3>
-			        <ul>
-                        <li>
-                       WASP
-                       <a href="http://www.webstandards.org/">http://www.webstandards.org/</a>
-                       </li>
-                       <li>
-                       W3C
-                       <a href="http://www.w3c.org">http://www.w3c.org</a>
-                      </li>
-                       <li>
-                        W3C Sites
-                       <a href="http://www.w3csites.com/">http://www.w3csites.com/</a>
-                      </li>
-                      </ul>
-					   <p>Validate code<a href="http://validator.w3.org/">http://validator.w3.org/</a>
-                </article>
-				
-	         <article>  
+        <article><h2>Example Codes</h2> 
+		   <article>  
              <h3>Referencing CSS</h3>
 		     <h4>Linking your CSS</h4>
               <p> A standard LINK element:</p>
@@ -64,7 +19,7 @@
               <h4>Example:</h4>
 		       <p>In your document, use the following within the &lt;head&gt; tag:</p>
                <h5>&lt;link rel="stylesheet" type="text/css" href="/css/basic_styles.css" media="all"/&gt;</h5>
-               <h5>&lt;style type="text/css" media="all"> @import "/css/rich_styles.css";   &lt;/style&gt;</h5>
+               <h5>&lt;style type="text/css" media="all"&gt; @import "/css/rich_styles.css";   &lt;/style&gt;</h5>
                <p>
                  This allows you to include basic styles in
                 <code>basic_styles.css</code>
@@ -75,15 +30,15 @@
                 Further to that, you can use the
                 <code>@import</code>
                 method to import multiple stylesheets from a basic stylesheet that you link to. This will reduce the clutter that can sometimes occur within the
-               &lt;head></code> section.
+               &lt;head&gt; section.
                </p>
         
-              </p>
+              <p></p>
                <p>It is also a great place to be able to manage your CSS from</p>
              <h4>Example:</h4>
 		    <p>From your main document, create a &lt;link&gt;  to your  <code>styles.css</code> page (you can even use <code>media="screen"</code> , or <code>media="print"</code>
             .)
-            <p>in the body of the <code>styles.css</code> file, import as many files as you need:</p>
+            </p><p>in the body of the <code>styles.css</code> file, import as many files as you need:</p>
            <ul>
              <li><code>@import url(/css/type.css);</code></li>
              <li><code>@import url(/css/nav.css);</code></li>
@@ -91,6 +46,7 @@
            </ul>
 
       </article>
+        </article>
 	</section>
 	</div>
 <!--#include file="includes/footer.inc"-->

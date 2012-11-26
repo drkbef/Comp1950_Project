@@ -49,10 +49,10 @@ Please let me know if any tasks are missing!!
 
 ********* FINAL TASK LIST BEFORE SUBMISSION  ************************* november 26 2012
 
+- fix validator - doesnt validate
+
 ********proto site**********
-- edit proto nav (client_navs.ssi & css is finalized)
 - Horizontal navagation needs content
-- edit include validator to proto site (copy it from client)
 - finalize proto sites!
 - finalize proto css  ! (client css is finalized)
 

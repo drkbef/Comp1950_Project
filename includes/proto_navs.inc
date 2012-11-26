@@ -31,9 +31,10 @@
  	<section>	
 	   	<h3>Examples and Blog</h3>
 			<ul>
+			 <li><a href="proto_tools.shtml">Tools</a></li>
 			 <li><a href="proto_example_code.shtml">Example Codes</a></li>
 			 <li><a href="#">Exercises</a></li>
-			 <li><a href="#">Assignments</a></li>			
+			 <li><a href="proto_assignments.shtml">Assignments</a></li>			
 			 <li><a href="proto_blog.shtml">Blog</a></li>			
 			</ul>
 	</section>
