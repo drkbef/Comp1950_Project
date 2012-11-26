@@ -1,22 +1,17 @@
 <!DOCTYPE html>
-<!--#include file="includes/head.inc"-->
+<!--#include file="includes/client_head.inc"-->
 
 <body>
 <div id="wrapper">
-	<!--#include file="includes/header.inc"-->
+	<!--#include file="includes/client_header.inc"-->
 
-	<!--#include file="includes/navs.inc"-->
+	<!--#include file="includes/client_navs.inc"-->
 
 <div id="rightcolumn">
 <section>
     <article>
 		<h3>Site Map</h3>
-			<article>
-				<p>Client Project Sitemap</p>
-					<ul>
-					<li><a href="http://teams.thenet.ca/lament/ClientProjectSite/documents/csitemap.html">Site Map - Client</a></li>
-					</ul>
-			
+			<article>	
 				<p>Proposed Sitemap for COMP1950 Web Site</p>
 					<ul>
 					<li><a href="http://teams.thenet.ca/lament/Comp1950Website/documents/sitemap.html">Site Map - COMP 1950</a></li>

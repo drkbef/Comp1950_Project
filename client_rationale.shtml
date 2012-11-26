@@ -1,11 +1,11 @@
 ﻿<!DOCTYPE html>
-<!--#include file="includes/head.inc"-->
+<!--#include file="includes/client_head.inc"-->
 
 <body>
 <div id="wrapper">
-	<!--#include file="includes/header.inc"-->
+	<!--#include file="includes/client_header.inc"-->
 
-	<!--#include file="includes/navs.inc"-->
+	<!--#include file="includes/client_navs.inc"-->
 
 	<div id="rightcolumn">
 <section> 

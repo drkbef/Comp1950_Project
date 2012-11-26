@@ -50,9 +50,10 @@ Please let me know if any tasks are missing!!
 ********* FINAL TASK LIST BEFORE SUBMISSION  ************************* november 26 2012
 
 ********proto site**********
-- added file proto_navs.inc - (doesnt work- need to add media query if desided to use)
+- proto_navs.inc - need to add the media OR -> dont use inc for proto nav
+- proto site map needs to be modified
 - include validator to proto site (copy it from client)
-- finalize proto nav (client_navs.ssi is perfect/correct - but need to modify proto css to work. Or just simply use html)
+- finalize proto nav (client_navs.ssi is perfect/correct - but need to modify proto css to work)
 - finalize proto sites!
 - finalize proto css  ! (client css is finalized)
 

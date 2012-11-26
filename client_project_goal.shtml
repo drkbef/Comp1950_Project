@@ -1,11 +1,11 @@
 ﻿<!DOCTYPE html>
-<!--#include file="includes/head.inc"-->
+<!--#include file="includes/client_head.inc"-->
 
 <body>
 <div id="wrapper">
-	<!--#include file="includes/header.inc"-->	
+	<!--#include file="includes/client_header.inc"-->	
 
-	<!--#include file="includes/navs.inc"-->
+	<!--#include file="includes/client_navs.inc"-->
 
 	<div id="rightcolumn">
 	<section> 
@@ -44,45 +44,48 @@
 				<tr><td>
 				<h3>Colin</h3>
 				<ul>
-					<li>Design secondary (D)</li>
-					<li>Tumblr</li>
-					<li>Editing written Content for pages</li>
+					<li>Layout Design - Secondary</li>
+					<li>Proto Home Media Queries</li>
+					<li>Blog - Tumblr</li>
+					<li>CSS and SHTML clean up </li>
 				</ul>
 				</td></tr>
 				<tr><td>
 					<h3>Prasanna</h3>
 					<ul>
-					    <li>Design primary (D)</li>
-					    <li>Proto Home(D)</li>
-					    <li>Fake search function(D)</li>
-					    <li>Proto Lecture</li>
-					    <li>Vertical menus</li>
+						<li>Layout Design - Primary</li>
+					    <li>Proto Home - Editing and written content</li>
+						<li>Proto Lecture - Editing and written content</li>
+						<li>Vertical Navigation</li>
+					    <li>Search Function</li>
 					</ul>
 				</td></tr>
 				<tr><td>
 					<h3>Jose</h3>
 					<ul>
-					    <li>Wireframes (D)</li>
-					    <li>Proto Hom</li>
-					    <li>Horizontal Menus</li>
-					    <li>Sitemap</li>
+					    <li>Proto Home</li>
+						<li>Horizontal Navigation</li>
+						<li>Wireframe(s)</li>
+					    <li>Sitemap(s)</li>
 					</ul>
 				</td></tr>
 				<tr><td>
 					<h3>Hawoon</h3>
 						<ul>
-					    <li>Client Hompage</li>
-					    <li>CSS and SHTML clean up</li>
+						<li>Finalized Client Navagation</li>
+						<li>Finalized Client CSS and Includes</li>
+						<li>Validator With Media Queries</li>
+						<li>CSS and SHTML clean up</li>
 					</ul>
 				</td></tr>
 				<tr><td>
 					<h3>Simon</h3>
 					<ul>
-					    <li>Client Hompage - Introduction to project</li>
+					    <li>Client Hompage - Introduction to project and Team Descriptions</li>
 					    <li>Client Rationale - Reasons for doing what we did</li>
 					    <li>Client Artifacts</li>
-					    <li>Team Descriptions</li>
-					    <li>Editing written Content for pages</li>
+						<li>Client Project Overview Pages</li>
+					    <li>CSS and SHTML clean up</li>
 					</ul>
 				</td></tr>
 			</tbody>
