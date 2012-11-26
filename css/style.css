@@ -151,6 +151,12 @@ nav#main li	{
 	font-family: Georgia, Times, Serif;
 	color: black;
 }
+
+li.title {
+	list-style-type: none;
+	margin: 10px 0px;
+}
+
 nav#main li a {
 	display: block;
 	padding: 0;
@@ -165,15 +171,12 @@ nav#main li a:hover	{
 	text-decoration: none;
 }
 
-
-
-/* ------------ footer---------- copied from JK -------------  */
 #footer	{
 	clear:both;
 	height:60px;
 	text-align:center;		
 	background-color:#A97D5D;
-	border-top:1px solid black;*/
+	border-top:1px solid black;
 }   
 #footer ul {
 	list-style-type: none;

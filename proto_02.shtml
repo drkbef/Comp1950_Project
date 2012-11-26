@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <!--#include file="includes/proto_head.inc"-->
 <body>
 <div id="wrapper">
@@ -6,9 +6,6 @@
 <!--#include file="includes/proto_navs.inc"-->
 
 	<div id="rightcolumn">
-    
-	    <section> 
-
 			  <article>
 			  <hgroup>
 			  <h1>Tools and Standards</h1>
@@ -21,6 +18,7 @@
                 <li>XHTML Review</li>
                 <li>Exercises/Assignment</li>
               </ul>
+          </article>
               
 			  <article>
 			  <h3>Web Review </h3>
@@ -62,7 +60,7 @@
 			  
 			
 		 </article>
-		  <article id="Exer2">
+		  <article>
 		      <h3>Exercise 2 - Using Xhtml </h3>
 			  <p><strong>General Instruction</strong>
 			  </p><p>Take the content located on the content page, and make it look as close to this example page as possible. </p>
@@ -71,25 +69,20 @@
 			<ul>
                 <li><a href="#">First Finnegan photo</a></li>
 				<li><a href="#">Second Finnegan photo</a></li>
- 
-             
-               
-              <p>Requirements</p>
-	          <ul>
+				<li class="title">Requirements</li>
+				<ul>
                 <li>Make sure your page validates as XHTML Strict. Use the W3C Validator, and add link from the page directly to the validator using a referer (do some research on how to do this)</li>
                 <li>Use CSS to create the presentation layer, fonts and measurements don't have to be exact. The page should have a strong resemblance</li>
                 <li>Use any layout scheme you would like (tables, CSS, etc)</li>
-                
-              </ul>
-			  
-			  <p>Suggestion </p>
-	          <ul>
+                </ul>
+              
+              <li class="title">Suggestion</li>
+	          
+	          	<ul>
                 <li>Try to use some of the plugins we looked at today to help you determine how to build the page properly</li>
-               
-              </ul>
+               	</ul>
+              
 		</ul></article>
-		</article>
-	</section>
 	</div>
 <!--#include file="includes/footer.inc"-->
 </div>
