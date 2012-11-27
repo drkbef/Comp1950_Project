@@ -8,9 +8,22 @@
 	<div id="rightcolumn">
     
 	    <section> 
-        <article><h2>Example Codes</h2> 
+        <article><h2>Examples and Exercises</h2> 
+		
+		<p> Activity 
+				<a href="#">1</a> |
+				<a href="#act2">2</a> |
+				<a href="#act3">3</a> |
+				<a href="#act4">4</a> |
+				<a href="#">5</a> |
+				<a href="#">6</a> |
+				<a href="#">7</a> |
+				<a href="#">8</a> |
+				<a href="#">9</a> |
+				<a href="#">10</a> 
+		
 		   <article>  
-             <h3>Referencing CSS</h3>
+             <h3><a id="act1">Activity 1 - HTML Review</a></h3>
 		     <h4>Linking your CSS</h4>
               <p> A standard LINK element:</p>
               <h5>&lt;link rel="stylesheet" type="text/css" href="http://www.mysite.com/css/styles.css" title="Main Style" media="screen" &gt;</h5>
@@ -46,6 +59,120 @@
            </ul>
 
       </article>
+	  
+	  <article>  
+             <h3><a id="act2">Activity 2 - Using xHtml</a></h3>
+		     <h4>Linking your CSS</h4>
+              <p> A standard LINK element:</p>
+              <h5>&lt;link rel="stylesheet" type="text/css" href="http://www.mysite.com/css/styles.css" title="Main Style" media="screen" &gt;</h5>
+            		
+		      <h4> The @import Method</h4>
+              <h4>Example:</h4>
+		       <p>In your document, use the following within the &lt;head&gt; tag:</p>
+               <h5>&lt;link rel="stylesheet" type="text/css" href="/css/basic_styles.css" media="all"/&gt;</h5>
+               <h5>&lt;style type="text/css" media="all"&gt; @import "/css/rich_styles.css";   &lt;/style&gt;</h5>
+               <p>
+                 This allows you to include basic styles in
+                <code>basic_styles.css</code>
+                (for older, or CSS-less-supported browsers) and have current styles for modern browsers in
+                <code>rich_styles.css</code>
+                </p>
+			    <p>
+                Further to that, you can use the
+                <code>@import</code>
+                method to import multiple stylesheets from a basic stylesheet that you link to. This will reduce the clutter that can sometimes occur within the
+               &lt;head&gt; section.
+               </p>
+        
+              <p></p>
+               <p>It is also a great place to be able to manage your CSS from</p>
+             <h4>Example:</h4>
+		    <p>From your main document, create a &lt;link&gt;  to your  <code>styles.css</code> page (you can even use <code>media="screen"</code> , or <code>media="print"</code>
+            .)
+            </p><p>in the body of the <code>styles.css</code> file, import as many files as you need:</p>
+           <ul>
+             <li><code>@import url(/css/type.css);</code></li>
+             <li><code>@import url(/css/nav.css);</code></li>
+             <li><code>@import url(/css/template.css);</code></li>
+           </ul>
+
+      </article>
+	  
+	  <article>  
+             <h3><a id="act3">Activity 3 - Referencing CSS</a></h3>
+		     <h4>Linking your CSS</h4>
+              <p> A standard LINK element:</p>
+              <h5>&lt;link rel="stylesheet" type="text/css" href="http://www.mysite.com/css/styles.css" title="Main Style" media="screen" &gt;</h5>
+            		
+		      <h4> The @import Method</h4>
+              <h4>Example:</h4>
+		       <p>In your document, use the following within the &lt;head&gt; tag:</p>
+               <h5>&lt;link rel="stylesheet" type="text/css" href="/css/basic_styles.css" media="all"/&gt;</h5>
+               <h5>&lt;style type="text/css" media="all"&gt; @import "/css/rich_styles.css";   &lt;/style&gt;</h5>
+               <p>
+                 This allows you to include basic styles in
+                <code>basic_styles.css</code>
+                (for older, or CSS-less-supported browsers) and have current styles for modern browsers in
+                <code>rich_styles.css</code>
+                </p>
+			    <p>
+                Further to that, you can use the
+                <code>@import</code>
+                method to import multiple stylesheets from a basic stylesheet that you link to. This will reduce the clutter that can sometimes occur within the
+               &lt;head&gt; section.
+               </p>
+        
+              <p></p>
+               <p>It is also a great place to be able to manage your CSS from</p>
+             <h4>Example:</h4>
+		    <p>From your main document, create a &lt;link&gt;  to your  <code>styles.css</code> page (you can even use <code>media="screen"</code> , or <code>media="print"</code>
+            .)
+            </p><p>in the body of the <code>styles.css</code> file, import as many files as you need:</p>
+           <ul>
+             <li><code>@import url(/css/type.css);</code></li>
+             <li><code>@import url(/css/nav.css);</code></li>
+             <li><code>@import url(/css/template.css);</code></li>
+           </ul>
+
+      </article>
+	  <article>  
+             <h3><a id="act4">Activity 4 - Advanced CSS</a></h3>
+		     <h4>Linking your CSS</h4>
+              <p> A standard LINK element:</p>
+              <h5>&lt;link rel="stylesheet" type="text/css" href="http://www.mysite.com/css/styles.css" title="Main Style" media="screen" &gt;</h5>
+            		
+		      <h4> The @import Method</h4>
+              <h4>Example:</h4>
+		       <p>In your document, use the following within the &lt;head&gt; tag:</p>
+               <h5>&lt;link rel="stylesheet" type="text/css" href="/css/basic_styles.css" media="all"/&gt;</h5>
+               <h5>&lt;style type="text/css" media="all"&gt; @import "/css/rich_styles.css";   &lt;/style&gt;</h5>
+               <p>
+                 This allows you to include basic styles in
+                <code>basic_styles.css</code>
+                (for older, or CSS-less-supported browsers) and have current styles for modern browsers in
+                <code>rich_styles.css</code>
+                </p>
+			    <p>
+                Further to that, you can use the
+                <code>@import</code>
+                method to import multiple stylesheets from a basic stylesheet that you link to. This will reduce the clutter that can sometimes occur within the
+               &lt;head&gt; section.
+               </p>
+        
+              <p></p>
+               <p>It is also a great place to be able to manage your CSS from</p>
+             <h4>Example:</h4>
+		    <p>From your main document, create a &lt;link&gt;  to your  <code>styles.css</code> page (you can even use <code>media="screen"</code> , or <code>media="print"</code>
+            .)
+            </p><p>in the body of the <code>styles.css</code> file, import as many files as you need:</p>
+           <ul>
+             <li><code>@import url(/css/type.css);</code></li>
+             <li><code>@import url(/css/nav.css);</code></li>
+             <li><code>@import url(/css/template.css);</code></li>
+           </ul>
+
+      </article>
+	  
         </article>
 	</section>
 	</div>
