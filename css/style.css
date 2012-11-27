@@ -1,3 +1,16 @@
+
+@font-face {
+    font-family: 'altgot2n'; /* Alternate Gothic 2N font */
+    src: url('http://teams.thenet.ca/lament/fonts/altgot2n-webfont.eot');
+    src: url('http://teams.thenet.ca/lament/fonts/altgot2n-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://teams.thenet.ca/lament/fonts/altgot2n-webfont.woff') format('woff'),
+         url('http://teams.thenet.ca/lament/fonts/altgot2n-webfont.ttf') format('truetype'),
+         url('http://teams.thenet.ca/lament/fonts/altgot2n-webfont.svg#webfontregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
 	background-color:#FFFFFF;
 	margin:0 auto;
@@ -8,8 +21,25 @@ body {
 
 header {
 	height:120px;
+	padding-top: 21px;
+	padding-left: 120px;
+	font-family: altgot2n;  
+	background-image: url('http://teams.thenet.ca/lament/images/banner.jpg');
+	background-position: left top;
 	text-align:center;
 	font-weight:bold;
+}
+
+header h1
+{
+	margin: 0 0 10px 0;
+	font-size: 300%;
+}
+
+header h2
+{
+	font-size: 200%;
+	margin: 0; 
 }
 
 dl.outline {
