@@ -34,7 +34,7 @@
 				<figcaption>Hawoon</figcaption>
 			</figure>    
 			<figure>
-				<img class="profile" src="images/profile.png" alt="simon">
+				<img class="profile" src="images/simon.jpg" alt="simon">
 				<figcaption>Simon</figcaption>
 			</figure>
 				<p>Contact Team by Email : <a href="">Lament @ comp1950.project.ca</a></p>
@@ -55,6 +55,7 @@
 						<li>Layout Design - Primary</li>
 					    <li>Proto Home - Editing and written content</li>
 						<li>Proto Code Example Page - Editing and written content</li>
+						<li>Add HTML5 shiv to all pages</li>
 						<li>Vertical Navigation</li>
 					    <li>Search Function</li>
 					</ul>

@@ -11,12 +11,18 @@
 			  <h1>Fall 2012 - Welcome!</h1>
 			  <h3>About This Course</h3>
               <p>
-                COMP 1950 is a required course for the Applied Web Development Associate Certificate and is an elective in Web Application Software Development, as well as the CST Diploma. Students receive hands-on exposure to industry-standard web development methodology and will be able to design and build intermediate level websites. Prerequisites: COMP 1850 or equivalent HTML and CSS knowledge. (3 Credits)
+                COMP 1950 is a required course for the Applied Web 
+Development Associate Certificate and is an elective in Web Application 
+Software Development, as well as the CST Diploma. Students receive 
+hands-on exposure to industry-standard web development methodology and 
+will be able to design and build intermediate level websites. 
+Prerequisites: COMP 1850 or equivalent HTML and CSS knowledge. (3 
+Credits)
               </p>
 
 			   
 	      <article>
-		      <h3>Basic Information</h3>
+		      <h3>Academic Grading</h3>
                <p><strong>Official</strong>
                details about the who, what, where and how are located in the
                <a href="http://www.bcit.ca/study/courses/comp1950">course info</a>
@@ -63,58 +69,103 @@
              </ul>
         </article>
 		<article>
-	       <h3>Expectations &amp; Reminders</h3>
+	       <h3>Course Outline</h3>
+<dl class="outline">
+<dt>Week 1</dt>
+<dd>Course Introduction: (this week!)</dd>
+<dd>Why are you here</dd>
+<dd>What you will learn</dd>
+<dd>Student Survey</dd>
+<dd class="outline-last">
+<strong>Assignment 1:</strong>
+Course homepage
+</dd>
+<dt>Week 2</dt>
+<dd>Web Development tools</dd>
+<dd>Standards in Web development</dd>
+<dd class="outline-last">
+<strong>Assignment 2: </strong>
+Using tools &amp; standards
+</dd>
+<dt>Week 3</dt>
+<dd>XHTML1, XHTML 2, HTML 4, HTML 5</dd>
+<dd>History and current developments</dd>
+<dd>What is the best development language?</dd>
+<dd class="outline-last">
+<strong>Assignment 3:</strong>
+Working with different MLs
+</dd>
+<dt>Week 4</dt>
+<dd>
+<strong>Quiz 1:</strong>
+Markup
+</dd>
+<dd>Review of CSS</dd>
+<dd>Beyond text formatting</dd>
+<dd class="outline-last">
+<strong>Assignment 4:</strong>
+Using different stylesheets
+</dd>
+<dt>Week 5</dt>
+<dd>Advanced CSS</dd>
+<dd>Layout and positioning</dd>
+<dd class="outline-last">
+<strong>Assignment 5:</strong>
+Troubleshooting CSS, Positioning Exercises
+</dd>
+<dt>Week 6</dt>
+<dd>Understanding Server Side Includes</dd>
+<dd>Beyond SSIs: Delivering dynamic information</dd>
+<dd>Introduction to template development</dd>
+<dd class="outline-last">
+<strong>Assignment 6:</strong>
+Template
+</dd>
+<dt>Week 7</dt>
+<dd>
+<em>Midterm</em>
+</dd>
+<dd>More Template Development</dd>
+<dd>Used in Blogs, wikis, user-driven sites, communities</dd>
+<dd class="outline-last">
+<strong>Assignment 7:</strong>
+Template II
+</dd>
+<dt>Week 8</dt>
+<dd>Development Methodology </dd>
+<dd>Requirements, Design, Production, Launch, Maintenance</dd>
+<dd>
+<strong>Project outlined</strong>
+</dd>
+<dd class="outline-last">
+<strong>Assignment 8:</strong>
+Methodology Notes
+</dd>
+<dt>Week 9</dt>
+<dd>Behaviour</dd>
+<dd>Adding interactivity</dd>
+<dd>JavaScript Libraries and Frameworks</dd>
+<dd class="outline-last">
+<strong>Assignment 9:</strong>
+Javascript exercises
+</dd>
+<dt>Week 10</dt>
+<dd>
+<strong>Quiz 2</strong>
+: Templating a/o Methodology
+</dd>
+<dd>Site Construction</dd>
+<dd>Bringing it all together</dd>
+<dd class="outline-last">
+<strong>Assignment 10</strong>
+: Completed site
+</dd>
+<dt>Week 11</dt>
+<dd class="outline-last">Project Work</dd>
+<dt>Week 12</dt>
+<dd>Final Examination</dd>
+</dl>
 
-           <p>This course is about Web Development. This means you should conduct yourself as Web Developers!</p>
-         <p>What does this mean? It means you should understand the following:</p>
-         <dl>
-          <dt>FTP</dt>
-          <dd>
-            If you don't understand FTP (File Transfer Protocol) right now, that's ok. After week 2 - don't ask me. This is a
-            <strong>required</strong>
-            skill
-           </dd>
-         <dt>File/Folder Names</dt>
-           <dd>
-           While it is technically possible, my recommendation is that you do NOT use capital letters, and I
-            <strong>require</strong>
-           that you do NOT use spaces in your file or folder names. Special Characters (those characters over the numbers on your keyboard) just won't work.
-           </dd>
-          <dt>Web Space</dt>
-          <dd>
-         The student web space is:
-        <strong>students.thenet.ca/(student_name)</strong>
-        <br>
-          Notice that there is
-          <strong>no www</strong>
-          at the front
-         </dd>
-         <dt>Upkeep</dt>
-         <dd>Each week, you should have your course web space (we'll set up the course web site later) up to date with assignments, exercises, etc.</dd>
-         <dt>Navigation</dt>
-         <dd>Please try to make things as easy to find as possible</dd>
-         </dl>
-        <p></p>
-     </article> 
-	 
-	 <article>
-           <h3>Other subjects? Tailor the course!</h3>
-
-           <ul>
-                  <li>
-                    What would you
-                   <strong>like</strong>
-                   to learn about?
-                  </li>
-                <li>What are you most interested in learning?</li>
-               <li>What skills would you like to acquire?</li>
-               <li>Are there subjects not covered here?</li>
-           </ul>
-      </article>
-	  <article>
-           <h4>Let's get started!</h4>
-              Let's go onto
-             <a href="proto_01.shtml">week one</a>
       </article>
         </article>
 	</section>

@@ -9,7 +9,7 @@
 	<section>
 		<h3>Project Overview</h3>
 		        <ul>															
-			 <li> <a href="client_project_goal.shtml">Project Goal</a></li>
+			 <li> <a href="index.shtml">Project Goal</a></li>
 			 <li> <a href="client_wireframe.shtml">Wireframe</a></li>
 		         <li> <a href="client_sitemap.shtml">Sitemap</a></li>
 			 <li> <a href="client_rationale.shtml">Rationale</a></li>
