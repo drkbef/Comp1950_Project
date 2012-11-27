@@ -19,7 +19,7 @@
  	<section>
 		<h3>Contact(s)</h3>
 		        <ul>															
-			 <li> <a href="client_project_goal.shtml">Project Team</a></li>
+			 <li> <a href="index.shtml">Project Team</a></li>
 		        </ul>
  	</section>
 </nav>
