@@ -10,6 +10,20 @@
 	    <section> 
 			<article>
 			<h2>Assignments</h2>  
+				<p> Week 
+				<a href="#">1</a> |
+				<a href="#assign2">2</a> |
+				<a href="#assign3">3</a> |
+				<a href="#assign4">4</a> |
+				<a href="#">5</a> |
+				<a href="#">6</a> |
+				<a href="#">7</a> |
+				<a href="#">8</a> |
+				<a href="#">9</a> |
+				<a href="#">10</a> 
+				</p>
+			
+			
 				<article>
 			   <h3><a id="assign1">Week 01 Assignment - HTML Review</a></h3>
                <p>Create your course web site: </p>
@@ -52,7 +66,7 @@
 				
 				
 				 <article>
-		       <h3><a id="assign2">Week 02 Assignment - Using xHtml<a/></h3>
+		       <h3><a id="assign2">Week 02 Assignment - Using xHtml</a></h3>
 			  <p><strong>General Instruction</strong>
 			  </p><p>Take the content located on the content page, and make it look as close to this example page as possible. </p>
 
