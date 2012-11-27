@@ -44,9 +44,11 @@
 				<h3>Colin</h3>
 				<ul>
 					<li>Layout Design - Secondary</li>
-					<li>Proto Site Media Queries</li>
+					<li>Proto Site Media Queries (480)</li>
 					<li>Blog - Tumblr</li>
+					<li>Rationale editing</li>
 					<li>CSS and SHTML clean up </li>
+					<li>Custom Header & Custom Font </li>
 				</ul>
 				</td></tr>
 				<tr><td>
@@ -64,6 +66,7 @@
 					<h3>Jose</h3>
 					<ul>
 					    <li>Proto Home</li>
+						<li>Proto Lecture</li>
 						<li>Horizontal Navigation</li>
 						<li>Wireframe(s)</li>
 					    <li>Sitemap(s)</li>
