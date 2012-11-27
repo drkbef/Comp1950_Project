@@ -12,37 +12,35 @@
 	<article>
 		<h3>Rationale</h3>
 			<p>
-			The previous existing COMP 1950 website was brief, but to the point and gets the job done providing BCIT students with weekly lecture notes, example, and assignments. Considering creating a more user-friendly interface design in focus on the user experience and interaction where lecture notes, examples and other information are easily accessed. Project team Lament reviewed and revised the existing web site using varieties of practices taught throughout this subjected site. The following below describes the results of this review and the implications for the recommended re-design.
+			The existing COMP 1950 website is brief, to the point, and gets the job done by providing BCIT students with weekly lecture notes, example, and assignments.  We built further on its design by creating a more user-friendly interface design that focuses on the user experience and interaction, by making lecture notes, examples and other information big and clear. Project team Lament reviewed and revised the existing web site using the practices taught throughout this course. The following below describes the results of this review and the implications for the recommended re-design.
 			</p>
 		
 		<article>
 			<h3>The Audience</h3>
-			<p>Targeted audiences are all BCIT students. For students who are currently enrolled in BCIT COMP 1950- Intermediate Web Development and Design. This web site will provide an easy access to lecture notes, assignments, and exercises in stride towards their career and academic future. Alumni students may gain access to review previous material while prospective students could have an overview or syllabus of the course potentials.
+			<p>Our target audience is all of BCIT's students, but more specifically, students who are  enrolled in the BCIT COMP 1950- Intermediate Web Development and Design course. This web site will provide an easy access to lecture notes, assignments, and exercises, and be a reference companion to the students as they strive towards their academic and career goals. Alumni students may gain access to review previous materials, while prospective students will have a readily available overview and syllabus of the course deliverables.
 		    </p>
 		</article>
 
 		<article>
 			<h3>Site Layout</h3>
-			<p>Keeping the web site stylish with innovative and inspiring idea without the use of lengthily flash intro, team Lament recommends and implicated a color schemes to create a more appealing web site to student. As well as altering the original navigation scheme and creating an additional navigation horizontally above, offering a more efficient access to content.
+			<p>Keeping the web site stylish without the use of a lengthily and useless flash intro, team Lament implemented a color scheme to create a more appealing web experience to students; the soothing browns represent a calming, and scholarly feel.  The team has found that the existing vertical navigation can be effective for visitors to find their way through the site, but felt moving it to the left made it more obvious and accessible for a North American audience.  
 	        </p>
-			<p>The site also upholds that of which is taught though out this course web site.
-            </p>
+
 		</article>
 
 		<article>
 			<h3>Site Navigation</h3>
-			<p>“If it ain't broke, don't fix it.” The team has found that the existing vertical navigation is overall effective for visitors to navigate though the web site. But an addiction horizontal navigation and minor modification to the existing could render the site from good to great.
+			<p>
 	        </p>
-			<p>To enhanced user experience and interaction that allows students easier access to various components of each lecture. We have tweaked the content of the vertical navigation with a place for exercise, code examples, and other resources that is easily accessible and updateable. While including an addiction horizontal navigation at the top beneath the main banner, the site now offers a more efficient access to content.
+			<p>To enhance the user experience, we made changes that allow students easier access to various components of each lecture, and we have tweaked the content of the vertical navigation by adding places for exercises, code examples, and other resources.  By including an additional horizontal navigation at the top beneath the main banner, the site now offers a more efficient access to content.
             </p>
 		</article>
       
 	   	<article>
 			<h3>Search Box</h3>
-			<p>Search box will save the audience precious time making life easier finding their topic of interest. Rather than manually skimming though lecture sections, the team has made this tool available at the top navigation to assist visitors in finding relevant material.
+			<p>Adding a Search box will save users precious time by finding their topic of interest quickly, rather than manually skimming though lecture sections.  The team has made this tool available at the top navigation to assist visitors in finding their desired material.
 		    </p>
-	        <p>To enhanced user experience and interaction that allows students easier access to various components of each lecture. We have tweaked the content of the vertical navigation with a place for exercise, code examples, and other resources that is easily accessible and updateable. While including an addiction horizontal navigation at the top beneath the main banner, the site now offers a more efficient access to content.
-			</p>
+
 		</article>
 
 	    <article>
@@ -53,13 +51,13 @@
       
 		<article>
 			<h3>Mobile Devices</h3>
-			<p>Establishing new grounds to keep users up-to-date on latest-breaking news, share interesting articles, and post other notices. We have incorporated a blog for informative educational use.
+			<p>As we progress into the 21st century, web pages are becoming more frequently viewed on cell phones and other small devices. Students may be using their mobile devices to keep them up-to-date with late-breaking news, or with their latest social updates. Therefore, web sites must leverage this growing trend.  Team Lament has responded by incorporating media-queries into the re-designed site, allowing it to be accessible on more platforms.
 		    </p>
 		</article>
       
 	    <article>
 			<h3>Blog</h3>
-			<p>Into the 21st century, web pages are constantly being view on cell phones and other small devices. Students may be using mobile devices to keep them up-to-date with the late-breaking news. All web browsers should at least be able to render the site in some fashion.  In result, team Lament incorporated media-queries into the re-designed for it to be able to be accessible across many platforms as well as handheld version.
+			<p>We have incorporated a blog for informative educational use, allowing to keep users up-to-date on the latest news and information regarding their course.  This will also allow the instructor to share other interesting articles, links, and quickly post additional resources.
 	        </p>
 		</article>
 	</article>
