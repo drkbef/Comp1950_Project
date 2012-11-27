@@ -30,7 +30,7 @@ Hawoon:  validator with SSI, finalized client navagations, CSS and SHTML clean u
 
 Simon:  Client Hompage, Client Rationale, Content for pages - Client Home (Introduction to project), Client Rationale (Our reasons for doing what we did), Team Descriptions (Who we are)
 
-Jose:  Wireframes (D), Proto Home(D),  Proto Lecture(D), Horizontal Menus(D), Proto Sitemap, 
+Jose:  Wireframes (D), Proto Home(D),  Proto Lecture(D), Horizontal Menus(D), Proto Sitemap (D), 
 
 Colin:  Design secondary(D), Tumblr(D), 420px Media Query: Prototype Sites & Tumblr(D), Editing written Content for pages
 
@@ -39,19 +39,27 @@ UNASSIGNED TASKS:
 
 - Create a more attractive Header for all pages.
 - Upload images of ourselves (optional)
-- Add HTML5 shiv to all pages, as well as add the .js shiv file in folder
+- Add HTML5 shiv to all pages, as well as add the .js shiv file in folder (D by Prasanna)
 - Visual Cleanup
 
 <Please let me know if any tasks are missing!!>
 
 ********* FINAL TASK LIST BEFORE SUBMISSION  *************************
-- (Done) proto_02.shtml html5 validator failed (seems can't have ul inside ul?) 
+- (Done) proto_02.shtml html5 validator failed (seems can't have ul inside ul?) (D)
 - 		(note: ssi validator only works in http://teams.thenet.ca/ server)
 
 ********proto site**********
-- Horizontal navagation needs content
-- finalize proto sites!
-- finalize proto css  ! (client css is finalized)
+- Horizontal navagation needs content (D)
+- finalize proto sites! (D)
+- finalize proto css  ! (D by Simon)
 
 ********client site**********
-- proto site map needs need to be fixed up
+- proto site map needs need to be fixed up (sitemap updated)
+
+********general clean up *******
+- index file for lament project //using the client project goal as index (D)
+- move all files at lament root folder for easy access //teams.thenet.ca/lament(D)
+- link between client and protosite (D)
+
+
+
