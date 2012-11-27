@@ -23,15 +23,13 @@
 
 		<article>
 			<h3>Site Layout</h3>
-			<p>Keeping the web site stylish without the use of a lengthily and useless flash intro, team Lament implemented a color scheme to create a more appealing web experience to students; the soothing browns represent a calming, and scholarly feel.  The team has found that the existing vertical navigation can be effective for visitors to find their way through the site, but felt moving it to the left made it more obvious and accessible for a North American audience.  
+			<p>Keeping the web site stylish without the use of a lengthily and useless flash intro, team Lament implemented a color scheme to create a more appealing web experience to students; the soothing browns represent a calming, and scholarly feel.  The team has found that the existing vertical navigation can be effective for visitors to find their way through the site, but felt moving it to the left would give it a more natural, left-to-right feel.  
 	        </p>
 
 		</article>
 
 		<article>
 			<h3>Site Navigation</h3>
-			<p>
-	        </p>
 			<p>To enhance the user experience, we made changes that allow students easier access to various components of each lecture, and we have tweaked the content of the vertical navigation by adding places for exercises, code examples, and other resources.  By including an additional horizontal navigation at the top beneath the main banner, the site now offers a more efficient access to content.
             </p>
 		</article>
