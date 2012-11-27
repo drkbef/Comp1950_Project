@@ -35,7 +35,6 @@
 			 <li><a href="http://lamentfor.tumblr.com/">Blog</a></li>
 			 <li><a href="index.shtml">Client Site </a></li>	 
 			</ul>
-			<p>Note: Client Site link only available until project completed</p>	
 	</section>
  	<section>	 
 		<h3>Resources</h3>
