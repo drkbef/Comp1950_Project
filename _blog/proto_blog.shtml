@@ -528,9 +528,12 @@ MEDIA QUERY
 
 
 
+    <!--[if lt IE 9]>
+    <script src="http://teams.thenet.ca/lament/html5shiv/html5shiv.js"></script>
+    <![endif]-->
 
 
-
+    
 
     </style>
 	
@@ -546,9 +549,9 @@ MEDIA QUERY
 	 
 	<nav id="main">
     <ul>
-	 <li><a href="http://teams.thenet.ca/lament/Comp1950_Project/proto_home.shtml">Home</a> </li>
-	 <li><a href="http://teams.thenet.ca/lament/Comp1950_Project/proto_example_code.shtml">Activities</a></li>
-	 <li><a href="http://teams.thenet.ca/lament/Comp1950_Project/proto_assignments.shtml">Assignments</a> </li>
+	 <li><a href="http://teams.thenet.ca/lament/proto_home.shtml">Home</a> </li>
+	 <li><a href="http://teams.thenet.ca/lament/proto_example_code.shtml">Activities</a></li>
+	 <li><a href="http://teams.thenet.ca/lament/proto_assignments.shtml">Assignments</a> </li>
 	 <li><a href="#">Contact</a></li>
 	</ul>
 
@@ -562,8 +565,8 @@ MEDIA QUERY
 	<section>
 		<h3>Lectures</h3>
 			<ul>															
-			 <li> <a href="http://teams.thenet.ca/lament/Comp1950_Project/proto_01.shtml">01 | Introduction</a></li>           	
-		         <li> <a href="http://teams.thenet.ca/lament/Comp1950_Project/proto_02.shtml">02 | Tools & Standards</a></li>
+			 <li> <a href="http://teams.thenet.ca/lament/proto_01.shtml">01 | Introduction</a></li>           	
+		         <li> <a href="http://teams.thenet.ca/lament/proto_02.shtml">02 | Tools & Standards</a></li>
 			 <li> <a href="#">03 | HTML5 & SEO</a></li>
 			 <li> <a href="#">04 | CSS Concepts</a></li>
 			 <li> <a href="#">05 | More CSS</a></li>
@@ -577,9 +580,9 @@ MEDIA QUERY
  	<section>	
 	   	<h3>Tools and Blog</h3>
 			<ul>
-			 <li><a href="http://teams.thenet.ca/lament/Comp1950_Project/proto_tools.shtml">Tools</a></li>	
+			 <li><a href="http://teams.thenet.ca/lament/proto_tools.shtml">Tools</a></li>	
 			 <li><a href="http://lamentfor.tumblr.com/">Blog</a></li>
-			 <li><a href="http://teams.thenet.ca/lament/Comp1950_Project/index.shtml">Client Site </a></li>	 
+			 <li><a href="http://teams.thenet.ca/lament/index.shtml">Client Site </a></li>	 
 			</ul>
 			<p>Note: Client Site link only available until project completed</p>	
 	</section>
