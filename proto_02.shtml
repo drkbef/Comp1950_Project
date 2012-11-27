@@ -8,7 +8,7 @@
 	<div id="rightcolumn">
 	 <section> 
 			  <article>
-		      <h3>Week 02 - Tools and Standards  </h3>
+		      <h3> Week 02 - Tools and Standards </a> </h3>
 			<p><strong>The Agenda</strong></p>
               <ul>
                 <li>Web review: some reminders </li>
@@ -59,29 +59,15 @@
 			  
 			
 		 </article>
-		  <article>
-		      <h3>Exercise 2 - Using Xhtml </h3>
-			  <p><strong>General Instruction</strong>
-			  </p><p>Take the content located on the content page, and make it look as close to this example page as possible. </p>
+		 
+				
+				<article>
+		      <h3>Assignment - Using Xhtml </h3>
+			  <p><a href="proto_assignments.shtml#assign2">Create a page for Finnegan</a></p>
 
-			<p>All of the images are located here:</p>
-			<ul>
-                <li><a href="#">First Finnegan photo</a></li>
-				<li><a href="#">Second Finnegan photo</a></li>
-				<li class="title">Requirements
-				<ul>
-                <li>Make sure your page validates as XHTML Strict. Use the W3C Validator, and add link from the page directly to the validator using a referer (do some research on how to do this)</li>
-                <li>Use CSS to create the presentation layer, fonts and measurements don't have to be exact. The page should have a strong resemblance</li>
-                <li>Use any layout scheme you would like (tables, CSS, etc)</li>
-                </ul>
-				</li>
-              <li class="title">Suggestion
-	          
-	          	<ul>
-                <li>Try to use some of the plugins we looked at today to help you determine how to build the page properly</li>
-               	</ul></li>
-              
-				</ul></article>
+		</article>
+				
+
 		          </article>
 		</section>
 	</div>
