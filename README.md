@@ -24,7 +24,7 @@ http://lamentfor.tumblr.com/
 
 ASSIGNED TASKS:
 
-Prasanna:  Design primary(D), Proto Home(D), Fake search function(D), vertical menus(D), Code Example page prototype(D)
+Prasanna:  Design primary(D), Proto Home(D), Fake search function(D), vertical menus(D), Code Example page prototype(D),Add HTML5 shiv to all pages, as well as add the .js shiv file in folder (D)
 
 Hawoon:  validator with SSI, finalized client navagations, CSS and SHTML clean up - Finalized Client CSS
 
@@ -32,17 +32,11 @@ Simon:  Client Hompage, Client Rationale, Content for pages - Client Home (Intro
 
 Jose:  Wireframes (D), Proto Home(D),  Proto Lecture(D), Horizontal Menus(D), Proto Sitemap (D), 
 
-Colin:  Design secondary(D), Tumblr(D), 420px Media Query: Prototype Sites & Tumblr(D), Editing written Content for pages
+Colin:  Design secondary(D), Tumblr(D), 420px Media Query: Prototype Sites & Tumblr(D), Editing written Content for pages, Visual Cleanup (D), Custom Header (D), Custom Font for Header (D)
+
+Everyone:  Visual Cleanup (D), Upload images of ourselves (D)
 
 
-UNASSIGNED TASKS:
-
-- Create a more attractive Header for all pages.
-- Upload images of ourselves (optional)
-- Add HTML5 shiv to all pages, as well as add the .js shiv file in folder (D by Prasanna)
-- Visual Cleanup
-
-<Please let me know if any tasks are missing!!>
 
 ********* FINAL TASK LIST BEFORE SUBMISSION  *************************
 - (Done) proto_02.shtml html5 validator failed (seems can't have ul inside ul?) (D)
