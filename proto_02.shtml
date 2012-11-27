@@ -6,11 +6,10 @@
 <!--#include file="includes/proto_navs.inc"-->
 
 	<div id="rightcolumn">
+	 <section> 
 			  <article>
-			  <hgroup>
-			  <h1>Tools and Standards</h1>
-		      <h3>Week 02 - The Agenda  </h3>
-			  </hgroup>
+		      <h3>Week 02 - Tools and Standards  </h3>
+			<p><strong>The Agenda</strong></p>
               <ul>
                 <li>Web review: some reminders </li>
                 <li>Web Development with Firefox, Chrome and Safari </li>
@@ -18,7 +17,7 @@
                 <li>XHTML Review</li>
                 <li>Exercises/Assignment</li>
               </ul>
-          </article>
+
               
 			  <article>
 			  <h3>Web Review </h3>
@@ -82,7 +81,9 @@
                 <li>Try to use some of the plugins we looked at today to help you determine how to build the page properly</li>
                	</ul></li>
               
-		</ul></article>
+				</ul></article>
+		          </article>
+		</section>
 	</div>
 <!--#include file="includes/footer.inc"-->
 </div>

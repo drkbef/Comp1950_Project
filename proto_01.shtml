@@ -8,10 +8,11 @@
 	<div id="rightcolumn">
 	    <section> 
 			  <article>
-			  <h3>Week 01 - The Agenda</h3>
+			  <h3>Week 01 - Introduction</h3>
+			  <p><strong>The Agenda</strong></p>
               <ul>
                 <li>about this course (outline, administrivia, assignments, etc)</li>
-                <li>introductions (me, you)</li>
+                <li>instructor and students' details (me, you)</li>
                 <li>web space (thenet.ca)</li>
                 <li>some expectations &amp; reminders</li>
                 <li>today's assignment</li>
@@ -19,32 +20,27 @@
 
 			   
 	      <article>
-		      <h3>Introductions</h3>
-               <p><strong>Official</strong>
-               details about the who, what, where and how are located in the
-               <a href="http://www.bcit.ca/study/courses/comp1950">course info</a>
-               section
-               </p>
-              <p>Some more information you might like to know: </p>
+		      <h3>The Instructor</h3>
+               <p><strong>All about Alistair Calder</strong></p>
+              
 	          <ul>
-                <li>More theory than in 1850</li>
-                <li>Still a fair amount of practical experience</li>
-                <li>Hands on coding and working in teams</li>
-                <li>Real-life methods taken from developers</li>
-                <li>Class and homework exercises</li>
-				<li>
+                <li>Web Developer since 1995</li>
+                <li>Lead web developer for:
 				    <ul>				
-                       <li>Assignments (various): 20%</li>
-                       <li>Quizzes (2): 20%</li>
-                       <li>Project: 30%</li>
-                      <li>Final Exam: 30%</li>
+                       <li>Top Producer Systems</li>
+                       <li>Multiactive</li>
+                       <li>POne Atmosphere (my own design firm)</li>
                     </ul>
                 </li>
+				<li>Currently: Technical lead on student portal, myBCIT</li>
+				<li>Broad knowledge set focussed mainly on web technologies</li>
+				
+				
               </ul>
 		 </article>
 			   
 		   <article>
-		        <h3>Assignments</h3>
+		        <h3>The Student: Who are you?</h3>
                  <ul>
                       <li>Generally given during the lab portion, due the following week</li>
                       <li>Linked from your COMP 1950 page (more on that later)</li>
