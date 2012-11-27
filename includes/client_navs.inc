@@ -16,10 +16,12 @@
 			 <li> <a href="client_artifacts.shtml">Artifacts</a></li>
 			</ul>
 	</section>
+	<div id="media-hide">
  	<section>
 		<h3>Contact(s)</h3>
 		        <ul>															
 			 <li> <a href="index.shtml">Project Team</a></li>
 		        </ul>
  	</section>
+	</div>
 </nav>
